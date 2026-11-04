@@ -1,11 +1,12 @@
 # BRSVP — Gestão de convites e participantes para eventos corporativos
 
-![ScriptCase](https://img.shields.io/badge/ScriptCase-10.1-1f6feb)
+![Versão](https://img.shields.io/badge/Vers%C3%A3o-1.2.2-2ea44f)
+![ScriptCase](https://img.shields.io/badge/ScriptCase-10.1.005-1f6feb)
 ![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-base%20principal-4479A1?logo=mysql&logoColor=white)
 ![2FA](https://img.shields.io/badge/Login-2FA%20(Google%20Authenticator)-0f9d58)
-![Integra%C3%A7%C3%A3o](https://img.shields.io/badge/Integra%C3%A7%C3%A3o-Be%20Invited%20(OAuth2)-f68e30)
-![Licen%C3%A7a](https://img.shields.io/badge/Licen%C3%A7a-todos%20os%20direitos%20reservados-lightgrey)
+![Integração](https://img.shields.io/badge/Integra%C3%A7%C3%A3o-Be%20Invited%20(OAuth2)-f68e30)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-todos%20os%20direitos%20reservados-lightgrey)
 
 > **Repositório de demonstração (vitrine).** Credenciais, hosts, e-mails, dados reais e as bibliotecas de execução do ScriptCase (`_lib/`) foram removidos ou substituídos por placeholders. O código serve para **avaliação de estrutura e qualidade**; ele não é executável como está. Veja [SECURITY.md](SECURITY.md) e [LICENSE](LICENSE).
 
@@ -37,7 +38,7 @@
 
 O **BRSVP** é um sistema de gestão de convidados para **eventos corporativos**, desenvolvido pela **UN Belvitur (BeFly)**. Diferentemente de sistemas de RSVP passivos, que apenas registram a confirmação, o BRSVP **gerencia o ciclo de vida completo do participante**: do convite ao pós-evento, passando por **aéreo, hospedagem, transfer, opcionais, programação e pagamentos**, com **integração em tempo real** com o aplicativo **Be Invited**.
 
-Versão da documentação: **1.20.10x**.
+**Versão do sistema:** 1.2.2 · gerado com **ScriptCase 10.1.005** (build 1).
 
 ## 2. Problema e solução
 
@@ -270,7 +271,7 @@ São cerca de **5.900 arquivos PHP**, pois cada aplicação tem versão **deskto
 
 | Componente | Detalhe |
 |---|---|
-| Plataforma de desenvolvimento | **ScriptCase 10.1** (build 1) |
+| Plataforma de desenvolvimento | **ScriptCase 10.1.005** (build 1) |
 | Linguagem | **PHP 8.2** |
 | Servidor web | Apache 2.4 |
 | Banco principal | **MySQL** (conexão da aplicação) |
