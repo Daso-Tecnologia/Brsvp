@@ -179,7 +179,8 @@ Be Invited: Aplicativo gerenciador de eventos corporativos (comunicação em tem
 
 📞 9. CONTATO E SUPORTE
 Diretoria UN Belvitur - BeFly
-E-mail: contato@exemplo.com.br
+E-mail: daniel@belvitur.com.br
+E-mail alternativo: daso.tecnologia@gmail.com
 Canais: E-mail corporativo | Microsoft Teams
 
 📈 10. ESTATÍSTICAS DO SISTEMA
