@@ -1,0 +1,58 @@
+.css_participante_cpf_label, .css_participante_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_participante_cpf_grid_line, .css_participante_cpf_grid_line:hover {vertical-align: top;text-align: right;}
+.css_participante_nome_label, .css_participante_nome_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_participante_nome_grid_line, .css_participante_nome_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tipo_pessoa_label, .css_tipo_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_pessoa_grid_line, .css_tipo_pessoa_grid_line:hover {color:#0099FF;vertical-align: top;text-align: right;}
+.css_satus_label, .css_satus_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_satus_grid_line, .css_satus_grid_line:hover {vertical-align: top;text-align: right;}
+.css_direcao_label, .css_direcao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_direcao_grid_line, .css_direcao_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cia_aerea_label, .css_cia_aerea_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cia_aerea_grid_line, .css_cia_aerea_grid_line:hover {vertical-align: top;text-align: right;}
+.css_voo_label, .css_voo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_voo_grid_line, .css_voo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_origem_label, .css_origem_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_origem_grid_line, .css_origem_grid_line:hover {vertical-align: top;text-align: right;}
+.css_destino_label, .css_destino_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_destino_grid_line, .css_destino_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_saida_label, .css_data_saida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_saida_grid_line, .css_data_saida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hora_saida_label, .css_hora_saida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hora_saida_grid_line, .css_hora_saida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_data_chegada_label, .css_data_chegada_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_chegada_grid_line, .css_data_chegada_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hora_chegada_label, .css_hora_chegada_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hora_chegada_grid_line, .css_hora_chegada_grid_line:hover {vertical-align: top;text-align: center;}
+.css_localizador_label, .css_localizador_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_localizador_grid_line, .css_localizador_grid_line:hover {vertical-align: top;text-align: right;}
+.css_etkt_label, .css_etkt_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_etkt_grid_line, .css_etkt_grid_line:hover {vertical-align: top;text-align: right;}
+.css_emitida_bvt_label, .css_emitida_bvt_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_emitida_bvt_grid_line, .css_emitida_bvt_grid_line:hover {color:#FF6600;vertical-align: top;text-align: right;}
+.css_usuario_nome_label, .css_usuario_nome_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_nome_grid_line, .css_usuario_nome_grid_line:hover {vertical-align: top;text-align: right;}
+.css_modificado_em_label, .css_modificado_em_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_modificado_em_grid_line, .css_modificado_em_grid_line:hover {vertical-align: top;text-align: center;}
+.css_bloqueio_dsc_label, .css_bloqueio_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_bloqueio_dsc_grid_line, .css_bloqueio_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usado_bloqueio_label, .css_usado_bloqueio_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_usado_bloqueio_grid_line, .css_usado_bloqueio_grid_line:hover {vertical-align: top;text-align: right;}
+.css_total_bloqueio_label, .css_total_bloqueio_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_bloqueio_grid_line, .css_total_bloqueio_grid_line:hover {vertical-align: top;text-align: right;}
+.css_direcao_bloqueio_label, .css_direcao_bloqueio_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_direcao_bloqueio_grid_line, .css_direcao_bloqueio_grid_line:hover {vertical-align: top;text-align: right;}
+.css_pax_gate_label, .css_pax_gate_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pax_gate_grid_line, .css_pax_gate_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nota_gate_label, .css_nota_gate_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nota_gate_grid_line, .css_nota_gate_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_nota_gate_label, .css_data_nota_gate_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_nota_gate_grid_line, .css_data_nota_gate_grid_line:hover {vertical-align: top;text-align: center;}
+.css_ativo_label, .css_ativo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ativo_grid_line, .css_ativo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_publico_label, .css_publico_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_publico_grid_line, .css_publico_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_aereopar_label, .css_id_aereopar_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_aereopar_grid_line, .css_id_aereopar_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_evento_label, .css_id_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_evento_grid_line, .css_id_evento_grid_line:hover {vertical-align: top;text-align: right;}

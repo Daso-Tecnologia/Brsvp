@@ -1,0 +1,10 @@
+.css_login_label, .css_login_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_login_grid_line, .css_login_grid_line:hover {vertical-align: top;text-align: left;}
+.css_data_hora_label, .css_data_hora_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_hora_grid_line, .css_data_hora_grid_line:hover {vertical-align: top;text-align: center;}
+.css_ip_label, .css_ip_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ip_grid_line, .css_ip_grid_line:hover {vertical-align: top;text-align: left;}
+.css_tsql_label, .css_tsql_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tsql_grid_line, .css_tsql_grid_line:hover {vertical-align: top;text-align: left;}
+.css_id_label, .css_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line, .css_id_grid_line:hover {vertical-align: top;text-align: right;}

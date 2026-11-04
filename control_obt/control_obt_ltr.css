@@ -1,0 +1,12 @@
+.css_dsc_obt_label, .css_dsc_obt_label a, .css_dsc_obt_label span{font-size:14px;color:#00a4fc;}
+.css_dsc_obt_label span  span{line-height:1.5;}
+.css_dsc_obt_line, .css_dsc_obt_line a, .css_dsc_obt_line >span{font-size:13px;font-weight:bold;}
+.css_dsc_obt_line span  span{line-height:1.5;}
+.css_dsc_obt_obj, .css_dsc_obt_obj a, .css_dsc_obt_obj span{ }
+.css_dsc_obt_obj span  span{line-height:1.5;}
+.css_os_label, .css_os_label a, .css_os_label span{font-weight:bold;}
+.css_os_label span  span{line-height:1.5;}
+.css_os_line, .css_os_line a, .css_os_line >span{ }
+.css_os_line span  span{line-height:1.5;}
+.css_os_obj, .css_os_obj a, .css_os_obj span{ }
+.css_os_obj span  span{line-height:1.5;}

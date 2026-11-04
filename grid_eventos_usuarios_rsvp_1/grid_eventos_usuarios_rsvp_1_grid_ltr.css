@@ -1,0 +1,18 @@
+.css_usuario_id_label, .css_usuario_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_usuario_id_grid_line, .css_usuario_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nome_usuario_label, .css_nome_usuario_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_usuario_grid_line, .css_nome_usuario_grid_line:hover {vertical-align: top;text-align: left;}
+.css_usuario_nivel_evt_label, .css_usuario_nivel_evt_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_nivel_evt_grid_line, .css_usuario_nivel_evt_grid_line:hover {vertical-align: top;text-align: left;}
+.css_evento_id_label, .css_evento_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_evento_id_grid_line, .css_evento_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nome_evento_label, .css_nome_evento_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_evento_grid_line, .css_nome_evento_grid_line:hover {vertical-align: top;text-align: left;}
+.css_nome_empresa_label, .css_nome_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_empresa_grid_line, .css_nome_empresa_grid_line:hover {vertical-align: top;text-align: left;}
+.css_participantes_label, .css_participantes_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_participantes_grid_line, .css_participantes_grid_line:hover {text-align: center;}
+.css_eventos_usuario_id_label, .css_eventos_usuario_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_eventos_usuario_id_grid_line, .css_eventos_usuario_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usuario_ativo_label, .css_usuario_ativo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_ativo_grid_line, .css_usuario_ativo_grid_line:hover {vertical-align: top;text-align: left;}

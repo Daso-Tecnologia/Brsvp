@@ -1,0 +1,8 @@
+.css_uf_num_label, .css_uf_num_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_uf_num_grid_line, .css_uf_num_grid_line:hover {vertical-align: top;text-align: right;}
+.css_uf_sigla_label, .css_uf_sigla_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_uf_sigla_grid_line, .css_uf_sigla_grid_line:hover {vertical-align: top;text-align: right;}
+.css_uf_nome_label, .css_uf_nome_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_uf_nome_grid_line, .css_uf_nome_grid_line:hover {vertical-align: top;text-align: right;}
+.css_pais_num_label, .css_pais_num_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_pais_num_grid_line, .css_pais_num_grid_line:hover {vertical-align: top;text-align: right;}

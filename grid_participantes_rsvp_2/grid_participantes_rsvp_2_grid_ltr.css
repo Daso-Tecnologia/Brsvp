@@ -1,0 +1,64 @@
+.css_participante_id_label, .css_participante_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_participante_id_grid_line, .css_participante_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_participante_id_tot_ger, .css_participante_id_tot_ger:hover {text-align: ;text-align: right;}
+.css_part_nome_substituto_label, .css_part_nome_substituto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:normal;}
+.css_part_nome_substituto_grid_line, .css_part_nome_substituto_grid_line:hover {color:#FF6600;vertical-align: top;text-align: left;}
+.css_acomp_gray_label, .css_acomp_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_acomp_gray_grid_line, .css_acomp_gray_grid_line:hover {text-align: center;}
+.css_acompanhante_label, .css_acompanhante_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_acompanhante_grid_line, .css_acompanhante_grid_line:hover {text-align: center;}
+.css_acomp_red_label, .css_acomp_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_acomp_red_grid_line, .css_acomp_red_grid_line:hover {text-align: center;}
+.css_substituido_label, .css_substituido_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_substituido_grid_line, .css_substituido_grid_line:hover {text-align: center;}
+.css_subst_gray_label, .css_subst_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_subst_gray_grid_line, .css_subst_gray_grid_line:hover {text-align: center;}
+.css_subst_laranja_label, .css_subst_laranja_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_subst_laranja_grid_line, .css_subst_laranja_grid_line:hover {text-align: center;}
+.css_nome_pessoa_label, .css_nome_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_pessoa_grid_line, .css_nome_pessoa_grid_line:hover {font-weight:bold;vertical-align: top;text-align: left;}
+.css_part_celeular_01_label, .css_part_celeular_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_celeular_01_grid_line, .css_part_celeular_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_contato_gray_label, .css_contato_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_contato_gray_grid_line, .css_contato_gray_grid_line:hover {text-align: center;}
+.css_contato_yellow_label, .css_contato_yellow_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_contato_yellow_grid_line, .css_contato_yellow_grid_line:hover {text-align: center;}
+.css_contato_red_label, .css_contato_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_contato_red_grid_line, .css_contato_red_grid_line:hover {text-align: center;}
+.css_contato_green_label, .css_contato_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_contato_green_grid_line, .css_contato_green_grid_line:hover {text-align: center;}
+.css_presenca_gray_label, .css_presenca_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_presenca_gray_grid_line, .css_presenca_gray_grid_line:hover {text-align: center;}
+.css_presenca_yellow_label, .css_presenca_yellow_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_presenca_yellow_grid_line, .css_presenca_yellow_grid_line:hover {text-align: center;}
+.css_presenca_red_label, .css_presenca_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_presenca_red_grid_line, .css_presenca_red_grid_line:hover {text-align: center;}
+.css_presenca_green_label, .css_presenca_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_presenca_green_grid_line, .css_presenca_green_grid_line:hover {text-align: center;}
+.css_solic_gray_label, .css_solic_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_solic_gray_grid_line, .css_solic_gray_grid_line:hover {text-align: center;}
+.css_solic_green_label, .css_solic_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_solic_green_grid_line, .css_solic_green_grid_line:hover {text-align: center;}
+.css_solic_red_label, .css_solic_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_solic_red_grid_line, .css_solic_red_grid_line:hover {text-align: center;}
+.css_solic_amarela_label, .css_solic_amarela_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_solic_amarela_grid_line, .css_solic_amarela_grid_line:hover {text-align: center;}
+.css_prog_gray_label, .css_prog_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_prog_gray_grid_line, .css_prog_gray_grid_line:hover {text-align: center;}
+.css_prog_ok_label, .css_prog_ok_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_prog_ok_grid_line, .css_prog_ok_grid_line:hover {text-align: center;}
+.css_desfaz_subs_label, .css_desfaz_subs_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_desfaz_subs_grid_line, .css_desfaz_subs_grid_line:hover {text-align: center;}
+.css_desfaz_subs_gray_label, .css_desfaz_subs_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_desfaz_subs_gray_grid_line, .css_desfaz_subs_gray_grid_line:hover {text-align: center;}
+.css_part_ativo_label, .css_part_ativo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_ativo_grid_line, .css_part_ativo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_sexo_label, .css_part_sexo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_sexo_grid_line, .css_part_sexo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_cpf_label, .css_part_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_cpf_grid_line, .css_part_cpf_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_crnm_label, .css_part_crnm_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_crnm_grid_line, .css_part_crnm_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_tipo_label, .css_part_tipo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_tipo_grid_line, .css_part_tipo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_participante_id_C_tot_ger, .css_participante_id_C_tot_ger:hover {text-align: right;}

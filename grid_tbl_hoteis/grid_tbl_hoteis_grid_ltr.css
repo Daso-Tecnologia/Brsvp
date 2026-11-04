@@ -1,0 +1,12 @@
+.css_hotel_id_label, .css_hotel_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_hotel_id_grid_line, .css_hotel_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hotel_cnpj_label, .css_hotel_cnpj_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_cnpj_grid_line, .css_hotel_cnpj_grid_line:hover {vertical-align: top;text-align: left;}
+.css_hotel_fantasia_label, .css_hotel_fantasia_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_fantasia_grid_line, .css_hotel_fantasia_grid_line:hover {vertical-align: top;text-align: left;}
+.css_hotel_razsoc_label, .css_hotel_razsoc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_razsoc_grid_line, .css_hotel_razsoc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_hotel_descricao_label, .css_hotel_descricao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_descricao_grid_line, .css_hotel_descricao_grid_line:hover {vertical-align: top;text-align: left;}
+.css_hotel_rede_label, .css_hotel_rede_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_rede_grid_line, .css_hotel_rede_grid_line:hover {vertical-align: top;text-align: left;}

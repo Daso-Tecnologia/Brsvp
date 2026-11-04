@@ -1,0 +1,30 @@
+.css_id_obs__label, .css_id_obs__label a, .css_id_obs__label span{text-align:;}
+.css_id_obs__label span  span{line-height:1.5;}
+.css_id_obs__line, .css_id_obs__line a, .css_id_obs__line >span{text-align:left;}
+.css_id_obs__line span  span{line-height:1.5;}
+.css_id_obs__obj, .css_id_obs__obj a, .css_id_obs__obj span{text-align:left;}
+.css_id_obs__obj span  span{line-height:1.5;}
+.css_obs_evento_id__label, .css_obs_evento_id__label a, .css_obs_evento_id__label span{ }
+.css_obs_evento_id__label span  span{line-height:1.5;}
+.css_obs_evento_id__line, .css_obs_evento_id__line a, .css_obs_evento_id__line >span{text-align:left;}
+.css_obs_evento_id__line span  span{line-height:1.5;}
+.css_obs_evento_id__obj, .css_obs_evento_id__obj a, .css_obs_evento_id__obj span{text-align:left;}
+.css_obs_evento_id__obj span  span{line-height:1.5;}
+.css_obs_tipo__label, .css_obs_tipo__label a, .css_obs_tipo__label span{ }
+.css_obs_tipo__label span  span{line-height:1.5;}
+.css_obs_tipo__line, .css_obs_tipo__line a, .css_obs_tipo__line >span{ }
+.css_obs_tipo__line span  span{line-height:1.5;}
+.css_obs_tipo__obj, .css_obs_tipo__obj a, .css_obs_tipo__obj span{ }
+.css_obs_tipo__obj span  span{line-height:1.5;}
+.css_obs_ativa__label, .css_obs_ativa__label a, .css_obs_ativa__label span{ }
+.css_obs_ativa__label span  span{line-height:1.5;}
+.css_obs_ativa__line, .css_obs_ativa__line a, .css_obs_ativa__line >span{ }
+.css_obs_ativa__line span  span{line-height:1.5;}
+.css_obs_ativa__obj, .css_obs_ativa__obj a, .css_obs_ativa__obj span{ }
+.css_obs_ativa__obj span  span{line-height:1.5;}
+.css_obs_texto__label, .css_obs_texto__label a, .css_obs_texto__label span{ }
+.css_obs_texto__label span  span{line-height:1.5;}
+.css_obs_texto__line, .css_obs_texto__line a, .css_obs_texto__line >span{ }
+.css_obs_texto__line span  span{line-height:1.5;}
+.css_obs_texto__obj, .css_obs_texto__obj a, .css_obs_texto__obj span{ }
+.css_obs_texto__obj span  span{line-height:1.5;}

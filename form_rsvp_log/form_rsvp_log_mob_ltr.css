@@ -1,0 +1,102 @@
+.css_id_log_label, .css_id_log_label a, .css_id_log_label span{ }
+.css_id_log_label span  span{line-height:1.5;}
+.css_id_log_line, .css_id_log_line a, .css_id_log_line >span{text-align:left;}
+.css_id_log_line span  span{line-height:1.5;}
+.css_id_log_obj, .css_id_log_obj a, .css_id_log_obj span{text-align:left;}
+.css_id_log_obj span  span{line-height:1.5;}
+.css_data_hora_label, .css_data_hora_label a, .css_data_hora_label span{ }
+.css_data_hora_label span  span{line-height:1.5;}
+.css_data_hora_line, .css_data_hora_line a, .css_data_hora_line >span{ }
+.css_data_hora_line span  span{line-height:1.5;}
+.css_data_hora_obj, .css_data_hora_obj a, .css_data_hora_obj span{ }
+.css_data_hora_obj span  span{line-height:1.5;}
+.css_ip_label, .css_ip_label a, .css_ip_label span{ }
+.css_ip_label span  span{line-height:1.5;}
+.css_ip_line, .css_ip_line a, .css_ip_line >span{ }
+.css_ip_line span  span{line-height:1.5;}
+.css_ip_obj, .css_ip_obj a, .css_ip_obj span{ }
+.css_ip_obj span  span{line-height:1.5;}
+.css_id_usuario_label, .css_id_usuario_label a, .css_id_usuario_label span{ }
+.css_id_usuario_label span  span{line-height:1.5;}
+.css_id_usuario_line, .css_id_usuario_line a, .css_id_usuario_line >span{text-align:left;}
+.css_id_usuario_line span  span{line-height:1.5;}
+.css_id_usuario_obj, .css_id_usuario_obj a, .css_id_usuario_obj span{text-align:left;}
+.css_id_usuario_obj span  span{line-height:1.5;}
+.css_cod_usuario_label, .css_cod_usuario_label a, .css_cod_usuario_label span{ }
+.css_cod_usuario_label span  span{line-height:1.5;}
+.css_cod_usuario_line, .css_cod_usuario_line a, .css_cod_usuario_line >span{ }
+.css_cod_usuario_line span  span{line-height:1.5;}
+.css_cod_usuario_obj, .css_cod_usuario_obj a, .css_cod_usuario_obj span{ }
+.css_cod_usuario_obj span  span{line-height:1.5;}
+.css_modulo_label, .css_modulo_label a, .css_modulo_label span{ }
+.css_modulo_label span  span{line-height:1.5;}
+.css_modulo_line, .css_modulo_line a, .css_modulo_line >span{ }
+.css_modulo_line span  span{line-height:1.5;}
+.css_modulo_obj, .css_modulo_obj a, .css_modulo_obj span{ }
+.css_modulo_obj span  span{line-height:1.5;}
+.css_aplicacao_label, .css_aplicacao_label a, .css_aplicacao_label span{ }
+.css_aplicacao_label span  span{line-height:1.5;}
+.css_aplicacao_line, .css_aplicacao_line a, .css_aplicacao_line >span{ }
+.css_aplicacao_line span  span{line-height:1.5;}
+.css_aplicacao_obj, .css_aplicacao_obj a, .css_aplicacao_obj span{ }
+.css_aplicacao_obj span  span{line-height:1.5;}
+.css_acao_label, .css_acao_label a, .css_acao_label span{ }
+.css_acao_label span  span{line-height:1.5;}
+.css_acao_line, .css_acao_line a, .css_acao_line >span{ }
+.css_acao_line span  span{line-height:1.5;}
+.css_acao_obj, .css_acao_obj a, .css_acao_obj span{ }
+.css_acao_obj span  span{line-height:1.5;}
+.css_campo_id_label, .css_campo_id_label a, .css_campo_id_label span{ }
+.css_campo_id_label span  span{line-height:1.5;}
+.css_campo_id_line, .css_campo_id_line a, .css_campo_id_line >span{ }
+.css_campo_id_line span  span{line-height:1.5;}
+.css_campo_id_obj, .css_campo_id_obj a, .css_campo_id_obj span{ }
+.css_campo_id_obj span  span{line-height:1.5;}
+.css_valor_campo_id_label, .css_valor_campo_id_label a, .css_valor_campo_id_label span{ }
+.css_valor_campo_id_label span  span{line-height:1.5;}
+.css_valor_campo_id_line, .css_valor_campo_id_line a, .css_valor_campo_id_line >span{ }
+.css_valor_campo_id_line span  span{line-height:1.5;}
+.css_valor_campo_id_obj, .css_valor_campo_id_obj a, .css_valor_campo_id_obj span{ }
+.css_valor_campo_id_obj span  span{line-height:1.5;}
+.css_campo_cpf_label, .css_campo_cpf_label a, .css_campo_cpf_label span{ }
+.css_campo_cpf_label span  span{line-height:1.5;}
+.css_campo_cpf_line, .css_campo_cpf_line a, .css_campo_cpf_line >span{ }
+.css_campo_cpf_line span  span{line-height:1.5;}
+.css_campo_cpf_obj, .css_campo_cpf_obj a, .css_campo_cpf_obj span{ }
+.css_campo_cpf_obj span  span{line-height:1.5;}
+.css_valor_campo_cpf_label, .css_valor_campo_cpf_label a, .css_valor_campo_cpf_label span{ }
+.css_valor_campo_cpf_label span  span{line-height:1.5;}
+.css_valor_campo_cpf_line, .css_valor_campo_cpf_line a, .css_valor_campo_cpf_line >span{ }
+.css_valor_campo_cpf_line span  span{line-height:1.5;}
+.css_valor_campo_cpf_obj, .css_valor_campo_cpf_obj a, .css_valor_campo_cpf_obj span{ }
+.css_valor_campo_cpf_obj span  span{line-height:1.5;}
+.css_campo_evt_label, .css_campo_evt_label a, .css_campo_evt_label span{ }
+.css_campo_evt_label span  span{line-height:1.5;}
+.css_campo_evt_line, .css_campo_evt_line a, .css_campo_evt_line >span{ }
+.css_campo_evt_line span  span{line-height:1.5;}
+.css_campo_evt_obj, .css_campo_evt_obj a, .css_campo_evt_obj span{ }
+.css_campo_evt_obj span  span{line-height:1.5;}
+.css_valor_campo_evt_label, .css_valor_campo_evt_label a, .css_valor_campo_evt_label span{ }
+.css_valor_campo_evt_label span  span{line-height:1.5;}
+.css_valor_campo_evt_line, .css_valor_campo_evt_line a, .css_valor_campo_evt_line >span{ }
+.css_valor_campo_evt_line span  span{line-height:1.5;}
+.css_valor_campo_evt_obj, .css_valor_campo_evt_obj a, .css_valor_campo_evt_obj span{ }
+.css_valor_campo_evt_obj span  span{line-height:1.5;}
+.css_tabela_label, .css_tabela_label a, .css_tabela_label span{ }
+.css_tabela_label span  span{line-height:1.5;}
+.css_tabela_line, .css_tabela_line a, .css_tabela_line >span{ }
+.css_tabela_line span  span{line-height:1.5;}
+.css_tabela_obj, .css_tabela_obj a, .css_tabela_obj span{ }
+.css_tabela_obj span  span{line-height:1.5;}
+.css_obs_label, .css_obs_label a, .css_obs_label span{ }
+.css_obs_label span  span{line-height:1.5;}
+.css_obs_line, .css_obs_line a, .css_obs_line >span{ }
+.css_obs_line span  span{line-height:1.5;}
+.css_obs_obj, .css_obs_obj a, .css_obs_obj span{ }
+.css_obs_obj span  span{line-height:1.5;}
+.css_csql_label, .css_csql_label a, .css_csql_label span{ }
+.css_csql_label span  span{line-height:1.5;}
+.css_csql_line, .css_csql_line a, .css_csql_line >span{ }
+.css_csql_line span  span{line-height:1.5;}
+.css_csql_obj, .css_csql_obj a, .css_csql_obj span{ }
+.css_csql_obj span  span{line-height:1.5;}

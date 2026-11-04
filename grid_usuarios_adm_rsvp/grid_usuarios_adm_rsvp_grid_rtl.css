@@ -1,0 +1,16 @@
+.css_usuario_cpf_label, .css_usuario_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_cpf_grid_line, .css_usuario_cpf_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usuario_email_label, .css_usuario_email_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_email_grid_line, .css_usuario_email_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usuario_nome_label, .css_usuario_nome_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_nome_grid_line, .css_usuario_nome_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usuario_status_label, .css_usuario_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_status_grid_line, .css_usuario_status_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usuario_foto_label, .css_usuario_foto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_foto_grid_line, .css_usuario_foto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usuario_id_label, .css_usuario_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_usuario_id_grid_line, .css_usuario_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usuario_lembrete_label, .css_usuario_lembrete_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_lembrete_grid_line, .css_usuario_lembrete_grid_line:hover {vertical-align: top;text-align: right;}
+.css_usuario_senha_label, .css_usuario_senha_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_usuario_senha_grid_line, .css_usuario_senha_grid_line:hover {vertical-align: top;text-align: right;}

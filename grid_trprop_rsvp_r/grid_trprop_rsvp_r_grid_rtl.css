@@ -1,0 +1,38 @@
+.css_id_evento_label, .css_id_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_evento_grid_line, .css_id_evento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_evento_dsc_label, .css_evento_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_dsc_grid_line, .css_evento_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_participante_label, .css_participante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_participante_grid_line, .css_participante_grid_line:hover {color:#0066FF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_tipo_pessoa_label, .css_tipo_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_pessoa_grid_line, .css_tipo_pessoa_grid_line:hover {color:#0099FF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_empresa_label, .css_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_grid_line, .css_empresa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cargo_label, .css_cargo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cargo_grid_line, .css_cargo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_chegada_label, .css_data_chegada_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_chegada_grid_line, .css_data_chegada_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hora_chegada_label, .css_hora_chegada_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hora_chegada_grid_line, .css_hora_chegada_grid_line:hover {vertical-align: top;text-align: center;}
+.css_ddd_celular_label, .css_ddd_celular_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ddd_celular_grid_line, .css_ddd_celular_grid_line:hover {vertical-align: top;text-align: right;}
+.css_celular_label, .css_celular_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_celular_grid_line, .css_celular_grid_line:hover {vertical-align: top;text-align: right;}
+.css_publico_dsc_label, .css_publico_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_publico_dsc_grid_line, .css_publico_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_regional_dsc_label, .css_regional_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_regional_dsc_grid_line, .css_regional_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hotel_dsc_label, .css_hotel_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_dsc_grid_line, .css_hotel_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_rg_label, .css_rg_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_rg_grid_line, .css_rg_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cpf_label, .css_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_grid_line, .css_cpf_grid_line:hover {color:#00CCFF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_data_nascimento_label, .css_data_nascimento_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_nascimento_grid_line, .css_data_nascimento_grid_line:hover {vertical-align: top;text-align: center;}
+.css_observacoes_label, .css_observacoes_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_observacoes_grid_line, .css_observacoes_grid_line:hover {vertical-align: top;text-align: right;}
+.css_status_label, .css_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_grid_line, .css_status_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_trprop_label, .css_id_trprop_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_trprop_grid_line, .css_id_trprop_grid_line:hover {vertical-align: top;text-align: right;}

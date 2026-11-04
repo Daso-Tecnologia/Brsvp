@@ -1,0 +1,10 @@
+.css_cod_aeroporto_label, .css_cod_aeroporto_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cod_aeroporto_grid_line, .css_cod_aeroporto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cod_pais_label, .css_cod_pais_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cod_pais_grid_line, .css_cod_pais_grid_line:hover {vertical-align: top;text-align: left;}
+.css_nom_cidade_label, .css_nom_cidade_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nom_cidade_grid_line, .css_nom_cidade_grid_line:hover {vertical-align: top;text-align: left;}
+.css_sigla_label, .css_sigla_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_sigla_grid_line, .css_sigla_grid_line:hover {vertical-align: top;text-align: left;}
+.css_nom_aeroporto_label, .css_nom_aeroporto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nom_aeroporto_grid_line, .css_nom_aeroporto_grid_line:hover {vertical-align: top;text-align: left;}

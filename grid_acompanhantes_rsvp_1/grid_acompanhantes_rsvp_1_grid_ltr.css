@@ -1,0 +1,20 @@
+.css_part_nome_label, .css_part_nome_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_nome_grid_line, .css_part_nome_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_ddd_celular_01_label, .css_part_ddd_celular_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_ddd_celular_01_grid_line, .css_part_ddd_celular_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_celeular_01_label, .css_part_celeular_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_celeular_01_grid_line, .css_part_celeular_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_sexo_label, .css_part_sexo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_sexo_grid_line, .css_part_sexo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_dt_nasc_label, .css_part_dt_nasc_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_part_dt_nasc_grid_line, .css_part_dt_nasc_grid_line:hover {vertical-align: top;text-align: center;}
+.css_part_cpf_label, .css_part_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_cpf_grid_line, .css_part_cpf_grid_line:hover {vertical-align: top;text-align: left;}
+.css_participante_id_label, .css_participante_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_participante_id_grid_line, .css_participante_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_participante_id_mestre_label, .css_participante_id_mestre_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_participante_id_mestre_grid_line, .css_participante_id_mestre_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_ativo_label, .css_part_ativo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_ativo_grid_line, .css_part_ativo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_cpf_mestre_label, .css_part_cpf_mestre_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_cpf_mestre_grid_line, .css_part_cpf_mestre_grid_line:hover {vertical-align: top;text-align: left;}

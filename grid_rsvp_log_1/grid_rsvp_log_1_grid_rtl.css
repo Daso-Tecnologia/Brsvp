@@ -1,0 +1,26 @@
+.css_id_log_label, .css_id_log_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_log_grid_line, .css_id_log_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_hora_label, .css_data_hora_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_hora_grid_line, .css_data_hora_grid_line:hover {vertical-align: top;text-align: center;}
+.css_ip_label, .css_ip_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ip_grid_line, .css_ip_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cod_usuario_label, .css_cod_usuario_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cod_usuario_grid_line, .css_cod_usuario_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nome_usuario_label, .css_nome_usuario_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_nome_usuario_grid_line, .css_nome_usuario_grid_line:hover {text-align: center;}
+.css_modulo_label, .css_modulo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_modulo_grid_line, .css_modulo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_valor_campo_cpf_label, .css_valor_campo_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_valor_campo_cpf_grid_line, .css_valor_campo_cpf_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aplicacao_label, .css_aplicacao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aplicacao_grid_line, .css_aplicacao_grid_line:hover {vertical-align: top;text-align: right;}
+.css_acao_label, .css_acao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_acao_grid_line, .css_acao_grid_line:hover {vertical-align: top;text-align: right;}
+.css_valor_campo_evt_label, .css_valor_campo_evt_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_valor_campo_evt_grid_line, .css_valor_campo_evt_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tabela_label, .css_tabela_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tabela_grid_line, .css_tabela_grid_line:hover {vertical-align: top;text-align: right;}
+.css_obs_label, .css_obs_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_obs_grid_line, .css_obs_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_usuario_label, .css_id_usuario_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_usuario_grid_line, .css_id_usuario_grid_line:hover {vertical-align: top;text-align: right;}

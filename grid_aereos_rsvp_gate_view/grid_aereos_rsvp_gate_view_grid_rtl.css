@@ -1,0 +1,38 @@
+.css_aereo_id_evento_label, .css_aereo_id_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_aereo_id_evento_grid_line, .css_aereo_id_evento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_id_usuario_label, .css_aereo_id_usuario_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_aereo_id_usuario_grid_line, .css_aereo_id_usuario_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_modificado_em_label, .css_aereo_modificado_em_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_aereo_modificado_em_grid_line, .css_aereo_modificado_em_grid_line:hover {vertical-align: top;text-align: center;}
+.css_aereo_cpf_particip_label, .css_aereo_cpf_particip_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_cpf_particip_grid_line, .css_aereo_cpf_particip_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_tipo_pessoa_label, .css_aereo_tipo_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_tipo_pessoa_grid_line, .css_aereo_tipo_pessoa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nome_pax_gate_label, .css_nome_pax_gate_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_pax_gate_grid_line, .css_nome_pax_gate_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_status_label, .css_aereo_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_status_grid_line, .css_aereo_status_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_localizador_label, .css_aereo_localizador_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_localizador_grid_line, .css_aereo_localizador_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_cia_aerea_gate_label, .css_aereo_cia_aerea_gate_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_cia_aerea_gate_grid_line, .css_aereo_cia_aerea_gate_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_num_voo_label, .css_aereo_num_voo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_num_voo_grid_line, .css_aereo_num_voo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_origem_label, .css_aereo_origem_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_origem_grid_line, .css_aereo_origem_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_destino_label, .css_aereo_destino_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_destino_grid_line, .css_aereo_destino_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_dt_saida_label, .css_aereo_dt_saida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_aereo_dt_saida_grid_line, .css_aereo_dt_saida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_aereo_hr_saida_label, .css_aereo_hr_saida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_aereo_hr_saida_grid_line, .css_aereo_hr_saida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_aereo_dt_chegada_label, .css_aereo_dt_chegada_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_aereo_dt_chegada_grid_line, .css_aereo_dt_chegada_grid_line:hover {vertical-align: top;text-align: center;}
+.css_aereo_hr_chegada_label, .css_aereo_hr_chegada_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_aereo_hr_chegada_grid_line, .css_aereo_hr_chegada_grid_line:hover {vertical-align: top;text-align: center;}
+.css_aereo_eticket_label, .css_aereo_eticket_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_eticket_grid_line, .css_aereo_eticket_grid_line:hover {vertical-align: top;text-align: right;}
+.css_aereo_emitida_bvt_label, .css_aereo_emitida_bvt_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_aereo_emitida_bvt_grid_line, .css_aereo_emitida_bvt_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_aereo_label, .css_id_aereo_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_aereo_grid_line, .css_id_aereo_grid_line:hover {vertical-align: top;text-align: right;}

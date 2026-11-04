@@ -1,0 +1,16 @@
+.css_part_nome_substituto_label, .css_part_nome_substituto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_nome_substituto_grid_line, .css_part_nome_substituto_grid_line:hover {color:#1DC91A;vertical-align: top;text-align: left;}
+.css_part_nome_substituido_label, .css_part_nome_substituido_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_nome_substituido_grid_line, .css_part_nome_substituido_grid_line:hover {color:#F07109;vertical-align: top;text-align: left;}
+.css_participante_id_label, .css_participante_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_participante_id_grid_line, .css_participante_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_ativo_label, .css_part_ativo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_ativo_grid_line, .css_part_ativo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_sexo_label, .css_part_sexo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_sexo_grid_line, .css_part_sexo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_cpf_label, .css_part_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_cpf_grid_line, .css_part_cpf_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_crnm_label, .css_part_crnm_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_crnm_grid_line, .css_part_crnm_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_tipo_label, .css_part_tipo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_tipo_grid_line, .css_part_tipo_grid_line:hover {vertical-align: top;text-align: left;}

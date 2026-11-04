@@ -1,0 +1,384 @@
+.css_hospedagem_id_label, .css_hospedagem_id_label a, .css_hospedagem_id_label span{ }
+.css_hospedagem_id_label span  span{line-height:1.5;}
+.css_hospedagem_id_line, .css_hospedagem_id_line a, .css_hospedagem_id_line >span{text-align:left;}
+.css_hospedagem_id_line span  span{line-height:1.5;}
+.css_hospedagem_id_obj, .css_hospedagem_id_obj a, .css_hospedagem_id_obj span{text-align:left;}
+.css_hospedagem_id_obj span  span{line-height:1.5;}
+.css_hosp_id_evento_label, .css_hosp_id_evento_label a, .css_hosp_id_evento_label span{ }
+.css_hosp_id_evento_label span  span{line-height:1.5;}
+.css_hosp_id_evento_line, .css_hosp_id_evento_line a, .css_hosp_id_evento_line >span{text-align:left;}
+.css_hosp_id_evento_line span  span{line-height:1.5;}
+.css_hosp_id_evento_obj, .css_hosp_id_evento_obj a, .css_hosp_id_evento_obj span{text-align:left;}
+.css_hosp_id_evento_obj span  span{line-height:1.5;}
+.css_hosp_id_usuario_label, .css_hosp_id_usuario_label a, .css_hosp_id_usuario_label span{ }
+.css_hosp_id_usuario_label span  span{line-height:1.5;}
+.css_hosp_id_usuario_line, .css_hosp_id_usuario_line a, .css_hosp_id_usuario_line >span{text-align:left;}
+.css_hosp_id_usuario_line span  span{line-height:1.5;}
+.css_hosp_id_usuario_obj, .css_hosp_id_usuario_obj a, .css_hosp_id_usuario_obj span{text-align:left;}
+.css_hosp_id_usuario_obj span  span{line-height:1.5;}
+.css_hosp_cpf_participante_label, .css_hosp_cpf_participante_label a, .css_hosp_cpf_participante_label span{ }
+.css_hosp_cpf_participante_label span  span{line-height:1.5;}
+.css_hosp_cpf_participante_line, .css_hosp_cpf_participante_line a, .css_hosp_cpf_participante_line >span{text-align:left;}
+.css_hosp_cpf_participante_line span  span{line-height:1.5;}
+.css_hosp_cpf_participante_obj, .css_hosp_cpf_participante_obj a, .css_hosp_cpf_participante_obj span{text-align:left;}
+.css_hosp_cpf_participante_obj span  span{line-height:1.5;}
+.css_hosp_id_hotel_label, .css_hosp_id_hotel_label a, .css_hosp_id_hotel_label span{ }
+.css_hosp_id_hotel_label span  span{line-height:1.5;}
+.css_hosp_id_hotel_line, .css_hosp_id_hotel_line a, .css_hosp_id_hotel_line >span{text-align:left;}
+.css_hosp_id_hotel_line span  span{line-height:1.5;}
+.css_hosp_id_hotel_obj, .css_hosp_id_hotel_obj a, .css_hosp_id_hotel_obj span{text-align:left;}
+.css_hosp_id_hotel_obj span  span{line-height:1.5;}
+.css_hosp_acomodacao_label, .css_hosp_acomodacao_label a, .css_hosp_acomodacao_label span{ }
+.css_hosp_acomodacao_label span  span{line-height:1.5;}
+.css_hosp_acomodacao_line, .css_hosp_acomodacao_line a, .css_hosp_acomodacao_line >span{text-align:left;}
+.css_hosp_acomodacao_line span  span{line-height:1.5;}
+.css_hosp_acomodacao_obj, .css_hosp_acomodacao_obj a, .css_hosp_acomodacao_obj span{text-align:left;}
+.css_hosp_acomodacao_obj span  span{line-height:1.5;}
+.css_hosp_categoria_label, .css_hosp_categoria_label a, .css_hosp_categoria_label span{ }
+.css_hosp_categoria_label span  span{line-height:1.5;}
+.css_hosp_categoria_line, .css_hosp_categoria_line a, .css_hosp_categoria_line >span{text-align:left;}
+.css_hosp_categoria_line span  span{line-height:1.5;}
+.css_hosp_categoria_obj, .css_hosp_categoria_obj a, .css_hosp_categoria_obj span{text-align:left;}
+.css_hosp_categoria_obj span  span{line-height:1.5;}
+.css_hosp_pagamentos_label, .css_hosp_pagamentos_label a, .css_hosp_pagamentos_label span{ }
+.css_hosp_pagamentos_label span  span{line-height:1.5;}
+.css_hosp_pagamentos_line, .css_hosp_pagamentos_line a, .css_hosp_pagamentos_line >span{text-align:left;}
+.css_hosp_pagamentos_line span  span{line-height:1.5;}
+.css_hosp_pagamentos_obj, .css_hosp_pagamentos_obj a, .css_hosp_pagamentos_obj span{text-align:left;}
+.css_hosp_pagamentos_obj span  span{line-height:1.5;}
+.css_hosp_status_label, .css_hosp_status_label a, .css_hosp_status_label span{font-size:13px;color:#0a8ff5;font-weight:bold;}
+.css_hosp_status_label span  span{line-height:1.5;}
+.css_hosp_status_line, .css_hosp_status_line a, .css_hosp_status_line >span{ }
+.css_hosp_status_line span  span{line-height:1.5;}
+.css_hosp_status_obj, .css_hosp_status_obj a, .css_hosp_status_obj span{ }
+.css_hosp_status_obj span  span{line-height:1.5;}
+.css_hosp_acompanhante_label, .css_hosp_acompanhante_label a, .css_hosp_acompanhante_label span{ }
+.css_hosp_acompanhante_label span  span{line-height:1.5;}
+.css_hosp_acompanhante_line, .css_hosp_acompanhante_line a, .css_hosp_acompanhante_line >span{ }
+.css_hosp_acompanhante_line span  span{line-height:1.5;}
+.css_hosp_acompanhante_obj, .css_hosp_acompanhante_obj a, .css_hosp_acompanhante_obj span{ }
+.css_hosp_acompanhante_obj span  span{line-height:1.5;}
+.css_hosp_qtd_acompanhante_label, .css_hosp_qtd_acompanhante_label a, .css_hosp_qtd_acompanhante_label span{ }
+.css_hosp_qtd_acompanhante_label span  span{line-height:1.5;}
+.css_hosp_qtd_acompanhante_line, .css_hosp_qtd_acompanhante_line a, .css_hosp_qtd_acompanhante_line >span{ }
+.css_hosp_qtd_acompanhante_line span  span{line-height:1.5;}
+.css_hosp_qtd_acompanhante_obj, .css_hosp_qtd_acompanhante_obj a, .css_hosp_qtd_acompanhante_obj span{ }
+.css_hosp_qtd_acompanhante_obj span  span{line-height:1.5;}
+.css_hosp_dt_checkin_label, .css_hosp_dt_checkin_label a, .css_hosp_dt_checkin_label span{ }
+.css_hosp_dt_checkin_label span  span{line-height:1.5;}
+.css_hosp_dt_checkin_line, .css_hosp_dt_checkin_line a, .css_hosp_dt_checkin_line >span{ }
+.css_hosp_dt_checkin_line span  span{line-height:1.5;}
+.css_hosp_dt_checkin_obj, .css_hosp_dt_checkin_obj a, .css_hosp_dt_checkin_obj span{ }
+.css_hosp_dt_checkin_obj span  span{line-height:1.5;}
+.css_hosp_dt_checkout_label, .css_hosp_dt_checkout_label a, .css_hosp_dt_checkout_label span{ }
+.css_hosp_dt_checkout_label span  span{line-height:1.5;}
+.css_hosp_dt_checkout_line, .css_hosp_dt_checkout_line a, .css_hosp_dt_checkout_line >span{ }
+.css_hosp_dt_checkout_line span  span{line-height:1.5;}
+.css_hosp_dt_checkout_obj, .css_hosp_dt_checkout_obj a, .css_hosp_dt_checkout_obj span{ }
+.css_hosp_dt_checkout_obj span  span{line-height:1.5;}
+.css_hosp_hr_checkin_label, .css_hosp_hr_checkin_label a, .css_hosp_hr_checkin_label span{ }
+.css_hosp_hr_checkin_label span  span{line-height:1.5;}
+.css_hosp_hr_checkin_line, .css_hosp_hr_checkin_line a, .css_hosp_hr_checkin_line >span{ }
+.css_hosp_hr_checkin_line span  span{line-height:1.5;}
+.css_hosp_hr_checkin_obj, .css_hosp_hr_checkin_obj a, .css_hosp_hr_checkin_obj span{ }
+.css_hosp_hr_checkin_obj span  span{line-height:1.5;}
+.css_hosp_hr_checkout_label, .css_hosp_hr_checkout_label a, .css_hosp_hr_checkout_label span{ }
+.css_hosp_hr_checkout_label span  span{line-height:1.5;}
+.css_hosp_hr_checkout_line, .css_hosp_hr_checkout_line a, .css_hosp_hr_checkout_line >span{ }
+.css_hosp_hr_checkout_line span  span{line-height:1.5;}
+.css_hosp_hr_checkout_obj, .css_hosp_hr_checkout_obj a, .css_hosp_hr_checkout_obj span{ }
+.css_hosp_hr_checkout_obj span  span{line-height:1.5;}
+.css_hosp_early_chkin_label, .css_hosp_early_chkin_label a, .css_hosp_early_chkin_label span{ }
+.css_hosp_early_chkin_label span  span{line-height:1.5;}
+.css_hosp_early_chkin_line, .css_hosp_early_chkin_line a, .css_hosp_early_chkin_line >span{ }
+.css_hosp_early_chkin_line span  span{line-height:1.5;}
+.css_hosp_early_chkin_obj, .css_hosp_early_chkin_obj a, .css_hosp_early_chkin_obj span{ }
+.css_hosp_early_chkin_obj span  span{line-height:1.5;}
+.css_hosp_late_chkout_label, .css_hosp_late_chkout_label a, .css_hosp_late_chkout_label span{ }
+.css_hosp_late_chkout_label span  span{line-height:1.5;}
+.css_hosp_late_chkout_line, .css_hosp_late_chkout_line a, .css_hosp_late_chkout_line >span{ }
+.css_hosp_late_chkout_line span  span{line-height:1.5;}
+.css_hosp_late_chkout_obj, .css_hosp_late_chkout_obj a, .css_hosp_late_chkout_obj span{ }
+.css_hosp_late_chkout_obj span  span{line-height:1.5;}
+.css_hosp_diarias_label, .css_hosp_diarias_label a, .css_hosp_diarias_label span{ }
+.css_hosp_diarias_label span  span{line-height:1.5;}
+.css_hosp_diarias_line, .css_hosp_diarias_line a, .css_hosp_diarias_line >span{text-align:left;}
+.css_hosp_diarias_line span  span{line-height:1.5;}
+.css_hosp_diarias_obj, .css_hosp_diarias_obj a, .css_hosp_diarias_obj span{text-align:left;}
+.css_hosp_diarias_obj span  span{line-height:1.5;}
+.css_hosp_taxas_label, .css_hosp_taxas_label a, .css_hosp_taxas_label span{ }
+.css_hosp_taxas_label span  span{line-height:1.5;}
+.css_hosp_taxas_line, .css_hosp_taxas_line a, .css_hosp_taxas_line >span{text-align:left;}
+.css_hosp_taxas_line span  span{line-height:1.5;}
+.css_hosp_taxas_obj, .css_hosp_taxas_obj a, .css_hosp_taxas_obj span{text-align:left;}
+.css_hosp_taxas_obj span  span{line-height:1.5;}
+.css_hosp_total_label, .css_hosp_total_label a, .css_hosp_total_label span{ }
+.css_hosp_total_label span  span{line-height:1.5;}
+.css_hosp_total_line, .css_hosp_total_line a, .css_hosp_total_line >span{text-align:left;}
+.css_hosp_total_line span  span{line-height:1.5;}
+.css_hosp_total_obj, .css_hosp_total_obj a, .css_hosp_total_obj span{text-align:left;}
+.css_hosp_total_obj span  span{line-height:1.5;}
+.css_hosp_observacoes_label, .css_hosp_observacoes_label a, .css_hosp_observacoes_label span{ }
+.css_hosp_observacoes_label span  span{line-height:1.5;}
+.css_hosp_observacoes_line, .css_hosp_observacoes_line a, .css_hosp_observacoes_line >span{ }
+.css_hosp_observacoes_line span  span{line-height:1.5;}
+.css_hosp_observacoes_obj, .css_hosp_observacoes_obj a, .css_hosp_observacoes_obj span{ }
+.css_hosp_observacoes_obj span  span{line-height:1.5;}
+.css_hosp_dsc_pacote_label, .css_hosp_dsc_pacote_label a, .css_hosp_dsc_pacote_label span{ }
+.css_hosp_dsc_pacote_label span  span{line-height:1.5;}
+.css_hosp_dsc_pacote_line, .css_hosp_dsc_pacote_line a, .css_hosp_dsc_pacote_line >span{ }
+.css_hosp_dsc_pacote_line span  span{line-height:1.5;}
+.css_hosp_dsc_pacote_obj, .css_hosp_dsc_pacote_obj a, .css_hosp_dsc_pacote_obj span{ }
+.css_hosp_dsc_pacote_obj span  span{line-height:1.5;}
+.css_hosp_alteracao_label, .css_hosp_alteracao_label a, .css_hosp_alteracao_label span{ }
+.css_hosp_alteracao_label span  span{line-height:1.5;}
+.css_hosp_alteracao_line, .css_hosp_alteracao_line a, .css_hosp_alteracao_line >span{ }
+.css_hosp_alteracao_line span  span{line-height:1.5;}
+.css_hosp_alteracao_obj, .css_hosp_alteracao_obj a, .css_hosp_alteracao_obj span{ }
+.css_hosp_alteracao_obj span  span{line-height:1.5;}
+.css_hosp_ativo_label, .css_hosp_ativo_label a, .css_hosp_ativo_label span{ }
+.css_hosp_ativo_label span  span{line-height:1.5;}
+.css_hosp_ativo_line, .css_hosp_ativo_line a, .css_hosp_ativo_line >span{ }
+.css_hosp_ativo_line span  span{line-height:1.5;}
+.css_hosp_ativo_obj, .css_hosp_ativo_obj a, .css_hosp_ativo_obj span{ }
+.css_hosp_ativo_obj span  span{line-height:1.5;}
+.css_hosp_part_acomp_label, .css_hosp_part_acomp_label a, .css_hosp_part_acomp_label span{ }
+.css_hosp_part_acomp_label span  span{line-height:1.5;}
+.css_hosp_part_acomp_line, .css_hosp_part_acomp_line a, .css_hosp_part_acomp_line >span{ }
+.css_hosp_part_acomp_line span  span{line-height:1.5;}
+.css_hosp_part_acomp_obj, .css_hosp_part_acomp_obj a, .css_hosp_part_acomp_obj span{ }
+.css_hosp_part_acomp_obj span  span{line-height:1.5;}
+.css_hosp_reserva_bvt_label, .css_hosp_reserva_bvt_label a, .css_hosp_reserva_bvt_label span{ }
+.css_hosp_reserva_bvt_label span  span{line-height:1.5;}
+.css_hosp_reserva_bvt_line, .css_hosp_reserva_bvt_line a, .css_hosp_reserva_bvt_line >span{ }
+.css_hosp_reserva_bvt_line span  span{line-height:1.5;}
+.css_hosp_reserva_bvt_obj, .css_hosp_reserva_bvt_obj a, .css_hosp_reserva_bvt_obj span{ }
+.css_hosp_reserva_bvt_obj span  span{line-height:1.5;}
+.css_conta_roomlist_label, .css_conta_roomlist_label a, .css_conta_roomlist_label span{ }
+.css_conta_roomlist_label span  span{line-height:1.5;}
+.css_conta_roomlist_line, .css_conta_roomlist_line a, .css_conta_roomlist_line >span{ }
+.css_conta_roomlist_line span  span{line-height:1.5;}
+.css_conta_roomlist_obj, .css_conta_roomlist_obj a, .css_conta_roomlist_obj span{ }
+.css_conta_roomlist_obj span  span{line-height:1.5;}
+.css_acmq_01_label, .css_acmq_01_label a, .css_acmq_01_label span{ }
+.css_acmq_01_label span  span{line-height:1.5;}
+.css_acmq_01_line, .css_acmq_01_line a, .css_acmq_01_line >span{ }
+.css_acmq_01_line span  span{line-height:1.5;}
+.css_acmq_01_obj, .css_acmq_01_obj a, .css_acmq_01_obj span{ }
+.css_acmq_01_obj span  span{line-height:1.5;}
+.css_acmq_02_label, .css_acmq_02_label a, .css_acmq_02_label span{ }
+.css_acmq_02_label span  span{line-height:1.5;}
+.css_acmq_02_line, .css_acmq_02_line a, .css_acmq_02_line >span{ }
+.css_acmq_02_line span  span{line-height:1.5;}
+.css_acmq_02_obj, .css_acmq_02_obj a, .css_acmq_02_obj span{ }
+.css_acmq_02_obj span  span{line-height:1.5;}
+.css_acmq_03_label, .css_acmq_03_label a, .css_acmq_03_label span{ }
+.css_acmq_03_label span  span{line-height:1.5;}
+.css_acmq_03_line, .css_acmq_03_line a, .css_acmq_03_line >span{ }
+.css_acmq_03_line span  span{line-height:1.5;}
+.css_acmq_03_obj, .css_acmq_03_obj a, .css_acmq_03_obj span{ }
+.css_acmq_03_obj span  span{line-height:1.5;}
+.css_acmq_04_label, .css_acmq_04_label a, .css_acmq_04_label span{ }
+.css_acmq_04_label span  span{line-height:1.5;}
+.css_acmq_04_line, .css_acmq_04_line a, .css_acmq_04_line >span{ }
+.css_acmq_04_line span  span{line-height:1.5;}
+.css_acmq_04_obj, .css_acmq_04_obj a, .css_acmq_04_obj span{ }
+.css_acmq_04_obj span  span{line-height:1.5;}
+.css_pamq_01_label, .css_pamq_01_label a, .css_pamq_01_label span{ }
+.css_pamq_01_label span  span{line-height:1.5;}
+.css_pamq_01_line, .css_pamq_01_line a, .css_pamq_01_line >span{ }
+.css_pamq_01_line span  span{line-height:1.5;}
+.css_pamq_01_obj, .css_pamq_01_obj a, .css_pamq_01_obj span{ }
+.css_pamq_01_obj span  span{line-height:1.5;}
+.css_pamq_02_label, .css_pamq_02_label a, .css_pamq_02_label span{ }
+.css_pamq_02_label span  span{line-height:1.5;}
+.css_pamq_02_line, .css_pamq_02_line a, .css_pamq_02_line >span{ }
+.css_pamq_02_line span  span{line-height:1.5;}
+.css_pamq_02_obj, .css_pamq_02_obj a, .css_pamq_02_obj span{ }
+.css_pamq_02_obj span  span{line-height:1.5;}
+.css_pamq_03_label, .css_pamq_03_label a, .css_pamq_03_label span{ }
+.css_pamq_03_label span  span{line-height:1.5;}
+.css_pamq_03_line, .css_pamq_03_line a, .css_pamq_03_line >span{ }
+.css_pamq_03_line span  span{line-height:1.5;}
+.css_pamq_03_obj, .css_pamq_03_obj a, .css_pamq_03_obj span{ }
+.css_pamq_03_obj span  span{line-height:1.5;}
+.css_pamq_04_label, .css_pamq_04_label a, .css_pamq_04_label span{ }
+.css_pamq_04_label span  span{line-height:1.5;}
+.css_pamq_04_line, .css_pamq_04_line a, .css_pamq_04_line >span{ }
+.css_pamq_04_line span  span{line-height:1.5;}
+.css_pamq_04_obj, .css_pamq_04_obj a, .css_pamq_04_obj span{ }
+.css_pamq_04_obj span  span{line-height:1.5;}
+.css_titulo_api_label, .css_titulo_api_label a, .css_titulo_api_label span{ }
+.css_titulo_api_label span  span{line-height:1.5;}
+.css_titulo_api_line, .css_titulo_api_line a, .css_titulo_api_line >span{ }
+.css_titulo_api_line span  span{line-height:1.5;}
+.css_titulo_api_obj, .css_titulo_api_obj a, .css_titulo_api_obj span{ }
+.css_titulo_api_obj span  span{line-height:1.5;}
+.css_descricao_api_label, .css_descricao_api_label a, .css_descricao_api_label span{ }
+.css_descricao_api_label span  span{line-height:1.5;}
+.css_descricao_api_line, .css_descricao_api_line a, .css_descricao_api_line >span{ }
+.css_descricao_api_line span  span{line-height:1.5;}
+.css_descricao_api_obj, .css_descricao_api_obj a, .css_descricao_api_obj span{ }
+.css_descricao_api_obj span  span{line-height:1.5;}
+.css_codigo_api_label, .css_codigo_api_label a, .css_codigo_api_label span{ }
+.css_codigo_api_label span  span{line-height:1.5;}
+.css_codigo_api_line, .css_codigo_api_line a, .css_codigo_api_line >span{ }
+.css_codigo_api_line span  span{line-height:1.5;}
+.css_codigo_api_obj, .css_codigo_api_obj a, .css_codigo_api_obj span{ }
+.css_codigo_api_obj span  span{line-height:1.5;}
+.css_valido_de_api_label, .css_valido_de_api_label a, .css_valido_de_api_label span{ }
+.css_valido_de_api_label span  span{line-height:1.5;}
+.css_valido_de_api_line, .css_valido_de_api_line a, .css_valido_de_api_line >span{ }
+.css_valido_de_api_line span  span{line-height:1.5;}
+.css_valido_de_api_obj, .css_valido_de_api_obj a, .css_valido_de_api_obj span{ }
+.css_valido_de_api_obj span  span{line-height:1.5;}
+.css_valido_ate_api_label, .css_valido_ate_api_label a, .css_valido_ate_api_label span{ }
+.css_valido_ate_api_label span  span{line-height:1.5;}
+.css_valido_ate_api_line, .css_valido_ate_api_line a, .css_valido_ate_api_line >span{ }
+.css_valido_ate_api_line span  span{line-height:1.5;}
+.css_valido_ate_api_obj, .css_valido_ate_api_obj a, .css_valido_ate_api_obj span{ }
+.css_valido_ate_api_obj span  span{line-height:1.5;}
+.css_nome_hotel_api_label, .css_nome_hotel_api_label a, .css_nome_hotel_api_label span{ }
+.css_nome_hotel_api_label span  span{line-height:1.5;}
+.css_nome_hotel_api_line, .css_nome_hotel_api_line a, .css_nome_hotel_api_line >span{ }
+.css_nome_hotel_api_line span  span{line-height:1.5;}
+.css_nome_hotel_api_obj, .css_nome_hotel_api_obj a, .css_nome_hotel_api_obj span{ }
+.css_nome_hotel_api_obj span  span{line-height:1.5;}
+.css_endereco_hotel_api_label, .css_endereco_hotel_api_label a, .css_endereco_hotel_api_label span{ }
+.css_endereco_hotel_api_label span  span{line-height:1.5;}
+.css_endereco_hotel_api_line, .css_endereco_hotel_api_line a, .css_endereco_hotel_api_line >span{ }
+.css_endereco_hotel_api_line span  span{line-height:1.5;}
+.css_endereco_hotel_api_obj, .css_endereco_hotel_api_obj a, .css_endereco_hotel_api_obj span{ }
+.css_endereco_hotel_api_obj span  span{line-height:1.5;}
+.css_checkin_api_label, .css_checkin_api_label a, .css_checkin_api_label span{ }
+.css_checkin_api_label span  span{line-height:1.5;}
+.css_checkin_api_line, .css_checkin_api_line a, .css_checkin_api_line >span{ }
+.css_checkin_api_line span  span{line-height:1.5;}
+.css_checkin_api_obj, .css_checkin_api_obj a, .css_checkin_api_obj span{ }
+.css_checkin_api_obj span  span{line-height:1.5;}
+.css_checkout_api_label, .css_checkout_api_label a, .css_checkout_api_label span{ }
+.css_checkout_api_label span  span{line-height:1.5;}
+.css_checkout_api_line, .css_checkout_api_line a, .css_checkout_api_line >span{ }
+.css_checkout_api_line span  span{line-height:1.5;}
+.css_checkout_api_obj, .css_checkout_api_obj a, .css_checkout_api_obj span{ }
+.css_checkout_api_obj span  span{line-height:1.5;}
+.css_acomodacao_api_label, .css_acomodacao_api_label a, .css_acomodacao_api_label span{ }
+.css_acomodacao_api_label span  span{line-height:1.5;}
+.css_acomodacao_api_line, .css_acomodacao_api_line a, .css_acomodacao_api_line >span{ }
+.css_acomodacao_api_line span  span{line-height:1.5;}
+.css_acomodacao_api_obj, .css_acomodacao_api_obj a, .css_acomodacao_api_obj span{ }
+.css_acomodacao_api_obj span  span{line-height:1.5;}
+.css_qtd_hospedes_api_label, .css_qtd_hospedes_api_label a, .css_qtd_hospedes_api_label span{ }
+.css_qtd_hospedes_api_label span  span{line-height:1.5;}
+.css_qtd_hospedes_api_line, .css_qtd_hospedes_api_line a, .css_qtd_hospedes_api_line >span{ }
+.css_qtd_hospedes_api_line span  span{line-height:1.5;}
+.css_qtd_hospedes_api_obj, .css_qtd_hospedes_api_obj a, .css_qtd_hospedes_api_obj span{ }
+.css_qtd_hospedes_api_obj span  span{line-height:1.5;}
+.css_qtd_noites_api_label, .css_qtd_noites_api_label a, .css_qtd_noites_api_label span{ }
+.css_qtd_noites_api_label span  span{line-height:1.5;}
+.css_qtd_noites_api_line, .css_qtd_noites_api_line a, .css_qtd_noites_api_line >span{ }
+.css_qtd_noites_api_line span  span{line-height:1.5;}
+.css_qtd_noites_api_obj, .css_qtd_noites_api_obj a, .css_qtd_noites_api_obj span{ }
+.css_qtd_noites_api_obj span  span{line-height:1.5;}
+.css_cafe_manha_api_label, .css_cafe_manha_api_label a, .css_cafe_manha_api_label span{ }
+.css_cafe_manha_api_label span  span{line-height:1.5;}
+.css_cafe_manha_api_line, .css_cafe_manha_api_line a, .css_cafe_manha_api_line >span{ }
+.css_cafe_manha_api_line span  span{line-height:1.5;}
+.css_cafe_manha_api_obj, .css_cafe_manha_api_obj a, .css_cafe_manha_api_obj span{ }
+.css_cafe_manha_api_obj span  span{line-height:1.5;}
+.css_comodidades_api_label, .css_comodidades_api_label a, .css_comodidades_api_label span{ }
+.css_comodidades_api_label span  span{line-height:1.5;}
+.css_comodidades_api_line, .css_comodidades_api_line a, .css_comodidades_api_line >span{ }
+.css_comodidades_api_line span  span{line-height:1.5;}
+.css_comodidades_api_obj, .css_comodidades_api_obj a, .css_comodidades_api_obj span{ }
+.css_comodidades_api_obj span  span{line-height:1.5;}
+.css_codigo_reserva_api_label, .css_codigo_reserva_api_label a, .css_codigo_reserva_api_label span{ }
+.css_codigo_reserva_api_label span  span{line-height:1.5;}
+.css_codigo_reserva_api_line, .css_codigo_reserva_api_line a, .css_codigo_reserva_api_line >span{ }
+.css_codigo_reserva_api_line span  span{line-height:1.5;}
+.css_codigo_reserva_api_obj, .css_codigo_reserva_api_obj a, .css_codigo_reserva_api_obj span{ }
+.css_codigo_reserva_api_obj span  span{line-height:1.5;}
+.css_telefone_hotel_api_label, .css_telefone_hotel_api_label a, .css_telefone_hotel_api_label span{ }
+.css_telefone_hotel_api_label span  span{line-height:1.5;}
+.css_telefone_hotel_api_line, .css_telefone_hotel_api_line a, .css_telefone_hotel_api_line >span{ }
+.css_telefone_hotel_api_line span  span{line-height:1.5;}
+.css_telefone_hotel_api_obj, .css_telefone_hotel_api_obj a, .css_telefone_hotel_api_obj span{ }
+.css_telefone_hotel_api_obj span  span{line-height:1.5;}
+.css_andar_hotel_api_label, .css_andar_hotel_api_label a, .css_andar_hotel_api_label span{ }
+.css_andar_hotel_api_label span  span{line-height:1.5;}
+.css_andar_hotel_api_line, .css_andar_hotel_api_line a, .css_andar_hotel_api_line >span{ }
+.css_andar_hotel_api_line span  span{line-height:1.5;}
+.css_andar_hotel_api_obj, .css_andar_hotel_api_obj a, .css_andar_hotel_api_obj span{ }
+.css_andar_hotel_api_obj span  span{line-height:1.5;}
+.css_late_checkout_api_label, .css_late_checkout_api_label a, .css_late_checkout_api_label span{ }
+.css_late_checkout_api_label span  span{line-height:1.5;}
+.css_late_checkout_api_line, .css_late_checkout_api_line a, .css_late_checkout_api_line >span{ }
+.css_late_checkout_api_line span  span{line-height:1.5;}
+.css_late_checkout_api_obj, .css_late_checkout_api_obj a, .css_late_checkout_api_obj span{ }
+.css_late_checkout_api_obj span  span{line-height:1.5;}
+.css_minibar_api_label, .css_minibar_api_label a, .css_minibar_api_label span{ }
+.css_minibar_api_label span  span{line-height:1.5;}
+.css_minibar_api_line, .css_minibar_api_line a, .css_minibar_api_line >span{ }
+.css_minibar_api_line span  span{line-height:1.5;}
+.css_minibar_api_obj, .css_minibar_api_obj a, .css_minibar_api_obj span{ }
+.css_minibar_api_obj span  span{line-height:1.5;}
+.css_estacionamento_api_label, .css_estacionamento_api_label a, .css_estacionamento_api_label span{ }
+.css_estacionamento_api_label span  span{line-height:1.5;}
+.css_estacionamento_api_line, .css_estacionamento_api_line a, .css_estacionamento_api_line >span{ }
+.css_estacionamento_api_line span  span{line-height:1.5;}
+.css_estacionamento_api_obj, .css_estacionamento_api_obj a, .css_estacionamento_api_obj span{ }
+.css_estacionamento_api_obj span  span{line-height:1.5;}
+.css_senha_wifi_api_label, .css_senha_wifi_api_label a, .css_senha_wifi_api_label span{ }
+.css_senha_wifi_api_label span  span{line-height:1.5;}
+.css_senha_wifi_api_line, .css_senha_wifi_api_line a, .css_senha_wifi_api_line >span{ }
+.css_senha_wifi_api_line span  span{line-height:1.5;}
+.css_senha_wifi_api_obj, .css_senha_wifi_api_obj a, .css_senha_wifi_api_obj span{ }
+.css_senha_wifi_api_obj span  span{line-height:1.5;}
+.css_chackin_online_api_label, .css_chackin_online_api_label a, .css_chackin_online_api_label span{ }
+.css_chackin_online_api_label span  span{line-height:1.5;}
+.css_chackin_online_api_line, .css_chackin_online_api_line a, .css_chackin_online_api_line >span{ }
+.css_chackin_online_api_line span  span{line-height:1.5;}
+.css_chackin_online_api_obj, .css_chackin_online_api_obj a, .css_chackin_online_api_obj span{ }
+.css_chackin_online_api_obj span  span{line-height:1.5;}
+.css_id_evento_app_label, .css_id_evento_app_label a, .css_id_evento_app_label span{ }
+.css_id_evento_app_label span  span{line-height:1.5;}
+.css_id_evento_app_line, .css_id_evento_app_line a, .css_id_evento_app_line >span{ }
+.css_id_evento_app_line span  span{line-height:1.5;}
+.css_id_evento_app_obj, .css_id_evento_app_obj a, .css_id_evento_app_obj span{ }
+.css_id_evento_app_obj span  span{line-height:1.5;}
+.css_id_participante_app_label, .css_id_participante_app_label a, .css_id_participante_app_label span{ }
+.css_id_participante_app_label span  span{line-height:1.5;}
+.css_id_participante_app_line, .css_id_participante_app_line a, .css_id_participante_app_line >span{ }
+.css_id_participante_app_line span  span{line-height:1.5;}
+.css_id_participante_app_obj, .css_id_participante_app_obj a, .css_id_participante_app_obj span{ }
+.css_id_participante_app_obj span  span{line-height:1.5;}
+.css_id_voucher_app_label, .css_id_voucher_app_label a, .css_id_voucher_app_label span{ }
+.css_id_voucher_app_label span  span{line-height:1.5;}
+.css_id_voucher_app_line, .css_id_voucher_app_line a, .css_id_voucher_app_line >span{ }
+.css_id_voucher_app_line span  span{line-height:1.5;}
+.css_id_voucher_app_obj, .css_id_voucher_app_obj a, .css_id_voucher_app_obj span{ }
+.css_id_voucher_app_obj span  span{line-height:1.5;}
+.css_enviar_app_label, .css_enviar_app_label a, .css_enviar_app_label span{font-size:13px;color:#eb11eb !important;font-weight:bold;}
+.css_enviar_app_label span  span{line-height:1.5;}
+.css_enviar_app_line, .css_enviar_app_line a, .css_enviar_app_line >span{ }
+.css_enviar_app_line span  span{line-height:1.5;}
+.css_enviar_app_obj, .css_enviar_app_obj a, .css_enviar_app_obj span{ }
+.css_enviar_app_obj span  span{line-height:1.5;}
+.css_cpf_del_label, .css_cpf_del_label a, .css_cpf_del_label span{ }
+.css_cpf_del_label span  span{line-height:1.5;}
+.css_cpf_del_line, .css_cpf_del_line a, .css_cpf_del_line >span{ }
+.css_cpf_del_line span  span{line-height:1.5;}
+.css_cpf_del_obj, .css_cpf_del_obj a, .css_cpf_del_obj span{ }
+.css_cpf_del_obj span  span{line-height:1.5;}
+.css_sql_log_label, .css_sql_log_label a, .css_sql_log_label span{ }
+.css_sql_log_label span  span{line-height:1.5;}
+.css_sql_log_line, .css_sql_log_line a, .css_sql_log_line >span{ }
+.css_sql_log_line span  span{line-height:1.5;}
+.css_sql_log_obj, .css_sql_log_obj a, .css_sql_log_obj span{ }
+.css_sql_log_obj span  span{line-height:1.5;}
+.css_tipo_pessoa_label, .css_tipo_pessoa_label a, .css_tipo_pessoa_label span{ }
+.css_tipo_pessoa_label span  span{line-height:1.5;}
+.css_tipo_pessoa_line, .css_tipo_pessoa_line a, .css_tipo_pessoa_line >span{ }
+.css_tipo_pessoa_line span  span{line-height:1.5;}
+.css_tipo_pessoa_obj, .css_tipo_pessoa_obj a, .css_tipo_pessoa_obj span{ }
+.css_tipo_pessoa_obj span  span{line-height:1.5;}

@@ -1,0 +1,10 @@
+.css_pessoa_id_label, .css_pessoa_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_pessoa_id_grid_line, .css_pessoa_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_pessoa_cpf_label, .css_pessoa_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pessoa_cpf_grid_line, .css_pessoa_cpf_grid_line:hover {vertical-align: top;text-align: right;}
+.css_pessoa_nome_label, .css_pessoa_nome_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pessoa_nome_grid_line, .css_pessoa_nome_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tipo_documento_label, .css_tipo_documento_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_documento_grid_line, .css_tipo_documento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cpf_informado_label, .css_cpf_informado_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_informado_grid_line, .css_cpf_informado_grid_line:hover {vertical-align: top;text-align: right;}

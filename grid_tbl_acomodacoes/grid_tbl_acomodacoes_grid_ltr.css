@@ -1,0 +1,6 @@
+.css_acomodacao_id_label, .css_acomodacao_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_acomodacao_id_grid_line, .css_acomodacao_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_acomodacao_sigla_label, .css_acomodacao_sigla_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_acomodacao_sigla_grid_line, .css_acomodacao_sigla_grid_line:hover {vertical-align: top;text-align: left;}
+.css_acomodacao_desc_label, .css_acomodacao_desc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_acomodacao_desc_grid_line, .css_acomodacao_desc_grid_line:hover {vertical-align: top;text-align: left;}

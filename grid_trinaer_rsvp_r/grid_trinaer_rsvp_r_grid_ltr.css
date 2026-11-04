@@ -1,0 +1,58 @@
+.css_tipo_transfer_label, .css_tipo_transfer_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_transfer_grid_line, .css_tipo_transfer_grid_line:hover {vertical-align: top;text-align: left;}
+.css_id_evento_label, .css_id_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_evento_grid_line, .css_id_evento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_evento_dsc_label, .css_evento_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_dsc_grid_line, .css_evento_dsc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_data_saida_label, .css_data_saida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_saida_grid_line, .css_data_saida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hora_saida_label, .css_hora_saida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hora_saida_grid_line, .css_hora_saida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_data_chegada_label, .css_data_chegada_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_chegada_grid_line, .css_data_chegada_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hora_chegada_label, .css_hora_chegada_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hora_chegada_grid_line, .css_hora_chegada_grid_line:hover {vertical-align: top;text-align: center;}
+.css_cia_aerea_sigla_label, .css_cia_aerea_sigla_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cia_aerea_sigla_grid_line, .css_cia_aerea_sigla_grid_line:hover {vertical-align: top;text-align: left;}
+.css_num_voo_label, .css_num_voo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_num_voo_grid_line, .css_num_voo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_origem_sigla_label, .css_origem_sigla_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_origem_sigla_grid_line, .css_origem_sigla_grid_line:hover {vertical-align: top;text-align: left;}
+.css_destino_sigla_label, .css_destino_sigla_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_destino_sigla_grid_line, .css_destino_sigla_grid_line:hover {vertical-align: top;text-align: left;}
+.css_participante_label, .css_participante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_participante_grid_line, .css_participante_grid_line:hover {color:#0033FF;vertical-align: top;text-align: left;}
+.css_tipo_pessoa_label, .css_tipo_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_pessoa_grid_line, .css_tipo_pessoa_grid_line:hover {vertical-align: top;text-align: left;}
+.css_publico_dsc_label, .css_publico_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_publico_dsc_grid_line, .css_publico_dsc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_regional_dsc_label, .css_regional_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_regional_dsc_grid_line, .css_regional_dsc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_hotel_dsc_label, .css_hotel_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_dsc_grid_line, .css_hotel_dsc_grid_line:hover {color:#009966;vertical-align: top;text-align: left;}
+.css_comprado_belvitur_label, .css_comprado_belvitur_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_comprado_belvitur_grid_line, .css_comprado_belvitur_grid_line:hover {vertical-align: top;text-align: left;}
+.css_localizador_label, .css_localizador_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_localizador_grid_line, .css_localizador_grid_line:hover {vertical-align: top;text-align: left;}
+.css_eticket_label, .css_eticket_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_eticket_grid_line, .css_eticket_grid_line:hover {vertical-align: top;text-align: left;}
+.css_rg_label, .css_rg_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_rg_grid_line, .css_rg_grid_line:hover {vertical-align: top;text-align: left;}
+.css_cpf_label, .css_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_grid_line, .css_cpf_grid_line:hover {color:#0099FF;vertical-align: top;text-align: left;}
+.css_data_nascimento_label, .css_data_nascimento_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_nascimento_grid_line, .css_data_nascimento_grid_line:hover {vertical-align: top;text-align: center;}
+.css_nota_gate_label, .css_nota_gate_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nota_gate_grid_line, .css_nota_gate_grid_line:hover {vertical-align: top;text-align: left;}
+.css_data_nota_gate_label, .css_data_nota_gate_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_nota_gate_grid_line, .css_data_nota_gate_grid_line:hover {vertical-align: top;text-align: center;}
+.css_status_label, .css_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_grid_line, .css_status_grid_line:hover {vertical-align: top;text-align: left;}
+.css_cod_bloqueio_label, .css_cod_bloqueio_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cod_bloqueio_grid_line, .css_cod_bloqueio_grid_line:hover {vertical-align: top;text-align: right;}
+.css_observacoes_label, .css_observacoes_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_observacoes_grid_line, .css_observacoes_grid_line:hover {vertical-align: top;text-align: left;}
+.css_id_trinaer_label, .css_id_trinaer_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_trinaer_grid_line, .css_id_trinaer_grid_line:hover {vertical-align: top;text-align: right;}
+.css_direcao_label, .css_direcao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_direcao_grid_line, .css_direcao_grid_line:hover {vertical-align: top;text-align: left;}

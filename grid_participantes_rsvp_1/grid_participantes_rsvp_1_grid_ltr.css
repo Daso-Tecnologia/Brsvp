@@ -1,0 +1,108 @@
+.css_part_cpf_label, .css_part_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_cpf_grid_line, .css_part_cpf_grid_line:hover {font-size:11px;vertical-align: top;text-align: left;}
+.css_acomp_gray_label, .css_acomp_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_acomp_gray_grid_line, .css_acomp_gray_grid_line:hover {text-align: center;}
+.css_acompanhante_label, .css_acompanhante_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_acompanhante_grid_line, .css_acompanhante_grid_line:hover {text-align: center;}
+.css_acomp_red_label, .css_acomp_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_acomp_red_grid_line, .css_acomp_red_grid_line:hover {text-align: center;}
+.css_substituido_label, .css_substituido_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_substituido_grid_line, .css_substituido_grid_line:hover {text-align: center;}
+.css_subst_gray_label, .css_subst_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_subst_gray_grid_line, .css_subst_gray_grid_line:hover {text-align: center;}
+.css_subst_laranja_label, .css_subst_laranja_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_subst_laranja_grid_line, .css_subst_laranja_grid_line:hover {text-align: center;}
+.css_nome_pessoa_label, .css_nome_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_pessoa_grid_line, .css_nome_pessoa_grid_line:hover {font-size:12px;vertical-align: top;text-align: left;}
+.css_part_celeular_01_label, .css_part_celeular_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_celeular_01_grid_line, .css_part_celeular_01_grid_line:hover {font-size:11px;vertical-align: top;text-align: left;}
+.css_contato_gray_label, .css_contato_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_contato_gray_grid_line, .css_contato_gray_grid_line:hover {text-align: center;}
+.css_contato_yellow_label, .css_contato_yellow_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_contato_yellow_grid_line, .css_contato_yellow_grid_line:hover {text-align: center;}
+.css_contato_red_label, .css_contato_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_contato_red_grid_line, .css_contato_red_grid_line:hover {text-align: center;}
+.css_contato_green_label, .css_contato_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_contato_green_grid_line, .css_contato_green_grid_line:hover {text-align: center;}
+.css_presenca_gray_label, .css_presenca_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_presenca_gray_grid_line, .css_presenca_gray_grid_line:hover {text-align: center;}
+.css_presenca_yellow_label, .css_presenca_yellow_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_presenca_yellow_grid_line, .css_presenca_yellow_grid_line:hover {text-align: center;}
+.css_presenca_red_label, .css_presenca_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_presenca_red_grid_line, .css_presenca_red_grid_line:hover {text-align: center;}
+.css_presenca_green_label, .css_presenca_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_presenca_green_grid_line, .css_presenca_green_grid_line:hover {text-align: center;}
+.css_solic_gray_label, .css_solic_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_solic_gray_grid_line, .css_solic_gray_grid_line:hover {text-align: center;}
+.css_solic_green_label, .css_solic_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_solic_green_grid_line, .css_solic_green_grid_line:hover {text-align: center;}
+.css_solic_red_label, .css_solic_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_solic_red_grid_line, .css_solic_red_grid_line:hover {text-align: center;}
+.css_solic_amarela_label, .css_solic_amarela_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_solic_amarela_grid_line, .css_solic_amarela_grid_line:hover {text-align: center;}
+.css_prog_gray_label, .css_prog_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_prog_gray_grid_line, .css_prog_gray_grid_line:hover {text-align: center;}
+.css_prog_ok_label, .css_prog_ok_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_prog_ok_grid_line, .css_prog_ok_grid_line:hover {text-align: center;}
+.css_aereo_gray_label, .css_aereo_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_aereo_gray_grid_line, .css_aereo_gray_grid_line:hover {text-align: center;}
+.css_aereo_green_label, .css_aereo_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_aereo_green_grid_line, .css_aereo_green_grid_line:hover {text-align: center;}
+.css_aereo_yellow_label, .css_aereo_yellow_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_aereo_yellow_grid_line, .css_aereo_yellow_grid_line:hover {text-align: center;}
+.css_aereo_red_label, .css_aereo_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_aereo_red_grid_line, .css_aereo_red_grid_line:hover {text-align: center;}
+.css_aereo_roxo_label, .css_aereo_roxo_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_aereo_roxo_grid_line, .css_aereo_roxo_grid_line:hover {text-align: center;}
+.css_hotel_gray_label, .css_hotel_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_gray_grid_line, .css_hotel_gray_grid_line:hover {text-align: center;}
+.css_hotel_yellow_label, .css_hotel_yellow_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_yellow_grid_line, .css_hotel_yellow_grid_line:hover {text-align: center;}
+.css_hotel_yellow_a_label, .css_hotel_yellow_a_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_yellow_a_grid_line, .css_hotel_yellow_a_grid_line:hover {text-align: center;}
+.css_hotel_gray_a_label, .css_hotel_gray_a_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_gray_a_grid_line, .css_hotel_gray_a_grid_line:hover {text-align: center;}
+.css_hotel_red_label, .css_hotel_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_red_grid_line, .css_hotel_red_grid_line:hover {text-align: center;}
+.css_hotel_red_a_label, .css_hotel_red_a_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_red_a_grid_line, .css_hotel_red_a_grid_line:hover {text-align: center;}
+.css_hotel_green_label, .css_hotel_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_green_grid_line, .css_hotel_green_grid_line:hover {text-align: center;}
+.css_hotel_green_a_label, .css_hotel_green_a_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_green_a_grid_line, .css_hotel_green_a_grid_line:hover {text-align: center;}
+.css_transfer_gray_label, .css_transfer_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_transfer_gray_grid_line, .css_transfer_gray_grid_line:hover {text-align: center;}
+.css_transfer_green_label, .css_transfer_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_transfer_green_grid_line, .css_transfer_green_grid_line:hover {text-align: center;}
+.css_transfer_red_label, .css_transfer_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_transfer_red_grid_line, .css_transfer_red_grid_line:hover {text-align: center;}
+.css_transfer_yellow_label, .css_transfer_yellow_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_transfer_yellow_grid_line, .css_transfer_yellow_grid_line:hover {text-align: center;}
+.css_opcionais_gray_label, .css_opcionais_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_opcionais_gray_grid_line, .css_opcionais_gray_grid_line:hover {text-align: center;}
+.css_opcionais_green_label, .css_opcionais_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_opcionais_green_grid_line, .css_opcionais_green_grid_line:hover {text-align: center;}
+.css_anotacoes_label, .css_anotacoes_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_anotacoes_grid_line, .css_anotacoes_grid_line:hover {text-align: center;}
+.css_anotacoes_gray_label, .css_anotacoes_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_anotacoes_gray_grid_line, .css_anotacoes_gray_grid_line:hover {text-align: center;}
+.css_cv_gray_label, .css_cv_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_cv_gray_grid_line, .css_cv_gray_grid_line:hover {text-align: center;}
+.css_cv_green_label, .css_cv_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_cv_green_grid_line, .css_cv_green_grid_line:hover {text-align: center;}
+.css_f_publico_label, .css_f_publico_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_f_publico_grid_line, .css_f_publico_grid_line:hover {font-size:10px;text-align: center;}
+.css_participante_id_label, .css_participante_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_participante_id_grid_line, .css_participante_id_grid_line:hover {font-size:9px;vertical-align: middle;text-align: left;}
+.css_participante_id_tot_ger, .css_participante_id_tot_ger:hover {text-align: ;text-align: left;}
+.css_teste_nv_label, .css_teste_nv_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_teste_nv_grid_line, .css_teste_nv_grid_line:hover {text-align: center;}
+.css_part_ativo_label, .css_part_ativo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_ativo_grid_line, .css_part_ativo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_sexo_label, .css_part_sexo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_sexo_grid_line, .css_part_sexo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_crnm_label, .css_part_crnm_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_crnm_grid_line, .css_part_crnm_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_tipo_label, .css_part_tipo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_tipo_grid_line, .css_part_tipo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_participante_id_C_tot_ger, .css_participante_id_C_tot_ger:hover {text-align: left;}

@@ -1,0 +1,142 @@
+.css_hospede_label, .css_hospede_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hospede_grid_line, .css_hospede_grid_line:hover {color:#0066FF;font-weight:bold;vertical-align: top;text-align: left;}
+.css_passaporte_label, .css_passaporte_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_passaporte_grid_line, .css_passaporte_grid_line:hover {vertical-align: top;text-align: left;}
+.css_rg_label, .css_rg_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_rg_grid_line, .css_rg_grid_line:hover {vertical-align: top;text-align: left;}
+.css_cpf_label, .css_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_grid_line, .css_cpf_grid_line:hover {color:#0099FF;font-weight:bold;vertical-align: top;text-align: left;}
+.css_cpf_tot_ger, .css_cpf_tot_ger:hover {text-align: ;text-align: left;}
+.css_data_nasc_label, .css_data_nasc_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_nasc_grid_line, .css_data_nasc_grid_line:hover {vertical-align: top;text-align: center;}
+.css_ddd_clelular_label, .css_ddd_clelular_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ddd_clelular_grid_line, .css_ddd_clelular_grid_line:hover {vertical-align: top;text-align: left;}
+.css_celular_label, .css_celular_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_celular_grid_line, .css_celular_grid_line:hover {vertical-align: top;text-align: left;}
+.css_telefone_internacional_label, .css_telefone_internacional_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_telefone_internacional_grid_line, .css_telefone_internacional_grid_line:hover {vertical-align: top;text-align: left;}
+.css_e_mail_label, .css_e_mail_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_e_mail_grid_line, .css_e_mail_grid_line:hover {vertical-align: top;text-align: left;}
+.css_tipo_pessoa_label, .css_tipo_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_pessoa_grid_line, .css_tipo_pessoa_grid_line:hover {color:#009999;font-weight:bold;vertical-align: top;text-align: left;}
+.css_amq_nome_01_label, .css_amq_nome_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_nome_01_grid_line, .css_amq_nome_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_nome_02_label, .css_amq_nome_02_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_nome_02_grid_line, .css_amq_nome_02_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_nome_03_label, .css_amq_nome_03_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_nome_03_grid_line, .css_amq_nome_03_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_nome_04_label, .css_amq_nome_04_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_nome_04_grid_line, .css_amq_nome_04_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_cpf_01_label, .css_amq_cpf_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_cpf_01_grid_line, .css_amq_cpf_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_cpf_02_label, .css_amq_cpf_02_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_cpf_02_grid_line, .css_amq_cpf_02_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_cpf_03_label, .css_amq_cpf_03_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_cpf_03_grid_line, .css_amq_cpf_03_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_cpf_04_label, .css_amq_cpf_04_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_cpf_04_grid_line, .css_amq_cpf_04_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_rg_01_label, .css_amq_rg_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_rg_01_grid_line, .css_amq_rg_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_rg_02_label, .css_amq_rg_02_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_rg_02_grid_line, .css_amq_rg_02_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_rg_03_label, .css_amq_rg_03_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_rg_03_grid_line, .css_amq_rg_03_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_rg_04_label, .css_amq_rg_04_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_rg_04_grid_line, .css_amq_rg_04_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_dtnasc_01_label, .css_amq_dtnasc_01_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_amq_dtnasc_01_grid_line, .css_amq_dtnasc_01_grid_line:hover {vertical-align: top;text-align: center;}
+.css_amq_dtnasc_02_label, .css_amq_dtnasc_02_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_amq_dtnasc_02_grid_line, .css_amq_dtnasc_02_grid_line:hover {vertical-align: top;text-align: center;}
+.css_amq_dtnasc_03_label, .css_amq_dtnasc_03_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_amq_dtnasc_03_grid_line, .css_amq_dtnasc_03_grid_line:hover {vertical-align: top;text-align: center;}
+.css_amq_dtnasc_04_label, .css_amq_dtnasc_04_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_amq_dtnasc_04_grid_line, .css_amq_dtnasc_04_grid_line:hover {vertical-align: top;text-align: center;}
+.css_amq_docest_01_label, .css_amq_docest_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_docest_01_grid_line, .css_amq_docest_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_docest_02_label, .css_amq_docest_02_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_docest_02_grid_line, .css_amq_docest_02_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_docest_03_label, .css_amq_docest_03_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_docest_03_grid_line, .css_amq_docest_03_grid_line:hover {vertical-align: top;text-align: left;}
+.css_amq_docest_04_label, .css_amq_docest_04_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_amq_docest_04_grid_line, .css_amq_docest_04_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_nome_01_label, .css_pmq_nome_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_nome_01_grid_line, .css_pmq_nome_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_nome_02_label, .css_pmq_nome_02_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_nome_02_grid_line, .css_pmq_nome_02_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_nome_03_label, .css_pmq_nome_03_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_nome_03_grid_line, .css_pmq_nome_03_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_nome_04_label, .css_pmq_nome_04_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_nome_04_grid_line, .css_pmq_nome_04_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_cpf_01_label, .css_pmq_cpf_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_cpf_01_grid_line, .css_pmq_cpf_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_cpf_02_label, .css_pmq_cpf_02_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_cpf_02_grid_line, .css_pmq_cpf_02_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_cpf_03_label, .css_pmq_cpf_03_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_cpf_03_grid_line, .css_pmq_cpf_03_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_cpf_04_label, .css_pmq_cpf_04_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_cpf_04_grid_line, .css_pmq_cpf_04_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_rg_01_label, .css_pmq_rg_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_rg_01_grid_line, .css_pmq_rg_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_rg_02_label, .css_pmq_rg_02_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_rg_02_grid_line, .css_pmq_rg_02_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_rg_03_label, .css_pmq_rg_03_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_rg_03_grid_line, .css_pmq_rg_03_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_rg_04_label, .css_pmq_rg_04_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_rg_04_grid_line, .css_pmq_rg_04_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_dtnasc_01_label, .css_pmq_dtnasc_01_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_pmq_dtnasc_01_grid_line, .css_pmq_dtnasc_01_grid_line:hover {vertical-align: top;text-align: center;}
+.css_pmq_dtnasc_02_label, .css_pmq_dtnasc_02_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_pmq_dtnasc_02_grid_line, .css_pmq_dtnasc_02_grid_line:hover {vertical-align: top;text-align: center;}
+.css_pmq_dtnasc_03_label, .css_pmq_dtnasc_03_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_pmq_dtnasc_03_grid_line, .css_pmq_dtnasc_03_grid_line:hover {vertical-align: top;text-align: center;}
+.css_pmq_dtnasc_04_label, .css_pmq_dtnasc_04_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_pmq_dtnasc_04_grid_line, .css_pmq_dtnasc_04_grid_line:hover {vertical-align: top;text-align: center;}
+.css_pmq_docest_01_label, .css_pmq_docest_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_docest_01_grid_line, .css_pmq_docest_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_docest_02_label, .css_pmq_docest_02_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_docest_02_grid_line, .css_pmq_docest_02_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_docest_03_label, .css_pmq_docest_03_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_docest_03_grid_line, .css_pmq_docest_03_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pmq_docest_04_label, .css_pmq_docest_04_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pmq_docest_04_grid_line, .css_pmq_docest_04_grid_line:hover {vertical-align: top;text-align: left;}
+.css_publico_dsc_label, .css_publico_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_publico_dsc_grid_line, .css_publico_dsc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_hotel_dsc_label, .css_hotel_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_dsc_grid_line, .css_hotel_dsc_grid_line:hover {color:#CC66FF;font-weight:bold;vertical-align: top;text-align: left;}
+.css_early_checkin_label, .css_early_checkin_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_early_checkin_grid_line, .css_early_checkin_grid_line:hover {vertical-align: top;text-align: left;}
+.css_late_checkout_label, .css_late_checkout_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_late_checkout_grid_line, .css_late_checkout_grid_line:hover {vertical-align: top;text-align: left;}
+.css_acomodacao_dsc_label, .css_acomodacao_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_acomodacao_dsc_grid_line, .css_acomodacao_dsc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_categoria_dsc_label, .css_categoria_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_categoria_dsc_grid_line, .css_categoria_dsc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_dt_checkin_label, .css_dt_checkin_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dt_checkin_grid_line, .css_dt_checkin_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hr_transferin_label, .css_hr_transferin_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hr_transferin_grid_line, .css_hr_transferin_grid_line:hover {vertical-align: top;text-align: center;}
+.css_dt_checkout_label, .css_dt_checkout_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dt_checkout_grid_line, .css_dt_checkout_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hr_transferout_label, .css_hr_transferout_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hr_transferout_grid_line, .css_hr_transferout_grid_line:hover {vertical-align: top;text-align: center;}
+.css_intervalo_trout_label, .css_intervalo_trout_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_intervalo_trout_grid_line, .css_intervalo_trout_grid_line:hover {vertical-align: top;text-align: center;}
+.css_forma_pgto_label, .css_forma_pgto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_forma_pgto_grid_line, .css_forma_pgto_grid_line:hover {vertical-align: top;text-align: left;}
+.css_observacoes_label, .css_observacoes_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_observacoes_grid_line, .css_observacoes_grid_line:hover {vertical-align: top;text-align: left;}
+.css_pacote_dsc_label, .css_pacote_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pacote_dsc_grid_line, .css_pacote_dsc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_empresa_label, .css_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_grid_line, .css_empresa_grid_line:hover {vertical-align: top;text-align: left;}
+.css_grupo_label, .css_grupo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_grupo_grid_line, .css_grupo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_cargo_label, .css_cargo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cargo_grid_line, .css_cargo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_anotacoes_label, .css_anotacoes_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_anotacoes_grid_line, .css_anotacoes_grid_line:hover {vertical-align: top;text-align: left;}
+.css_evento_dsc_label, .css_evento_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_dsc_grid_line, .css_evento_dsc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_room_id_label, .css_room_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_room_id_grid_line, .css_room_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cpf_C_tot_ger, .css_cpf_C_tot_ger:hover {text-align: left;}

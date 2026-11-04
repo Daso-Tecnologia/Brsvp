@@ -1,0 +1,14 @@
+.css_descricao_label, .css_descricao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descricao_grid_line, .css_descricao_grid_line:hover {vertical-align: top;text-align: right;}
+.css_bandeira_label, .css_bandeira_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_bandeira_grid_line, .css_bandeira_grid_line:hover {vertical-align: top;text-align: right;}
+.css_pais_id_label, .css_pais_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_pais_id_grid_line, .css_pais_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_codigo_label, .css_codigo_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_codigo_grid_line, .css_codigo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_codigo_srf_label, .css_codigo_srf_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_codigo_srf_grid_line, .css_codigo_srf_grid_line:hover {vertical-align: top;text-align: right;}
+.css_iso_label, .css_iso_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_iso_grid_line, .css_iso_grid_line:hover {vertical-align: top;text-align: right;}
+.css_iso3_label, .css_iso3_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_iso3_grid_line, .css_iso3_grid_line:hover {vertical-align: top;text-align: right;}

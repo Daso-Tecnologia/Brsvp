@@ -1,0 +1,24 @@
+.css_hosp_id_evento_label, .css_hosp_id_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_hosp_id_evento_grid_line, .css_hosp_id_evento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hosp_cpf_participante_label, .css_hosp_cpf_participante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hosp_cpf_participante_grid_line, .css_hosp_cpf_participante_grid_line:hover {vertical-align: top;text-align: left;}
+.css_hosp_cpf_participante_tot_ger, .css_hosp_cpf_participante_tot_ger:hover {text-align: ;text-align: left;}
+.css_cpf_grid_label, .css_cpf_grid_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_cpf_grid_grid_line, .css_cpf_grid_grid_line:hover {text-align: left;}
+.css_hosp_id_hotel_label, .css_hosp_id_hotel_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_hosp_id_hotel_grid_line, .css_hosp_id_hotel_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hosp_acomodacao_label, .css_hosp_acomodacao_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_hosp_acomodacao_grid_line, .css_hosp_acomodacao_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hosp_categoria_label, .css_hosp_categoria_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_hosp_categoria_grid_line, .css_hosp_categoria_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hosp_qtd_acompanhante_label, .css_hosp_qtd_acompanhante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hosp_qtd_acompanhante_grid_line, .css_hosp_qtd_acompanhante_grid_line:hover {vertical-align: top;text-align: left;}
+.css_conta_roomlist_label, .css_conta_roomlist_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_conta_roomlist_grid_line, .css_conta_roomlist_grid_line:hover {vertical-align: top;text-align: left;}
+.css_hospedagem_id_label, .css_hospedagem_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_hospedagem_id_grid_line, .css_hospedagem_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hosp_id_participante_label, .css_hosp_id_participante_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_hosp_id_participante_grid_line, .css_hosp_id_participante_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hosp_id_usuario_label, .css_hosp_id_usuario_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_hosp_id_usuario_grid_line, .css_hosp_id_usuario_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hosp_cpf_participante_C_tot_ger, .css_hosp_cpf_participante_C_tot_ger:hover {text-align: left;}

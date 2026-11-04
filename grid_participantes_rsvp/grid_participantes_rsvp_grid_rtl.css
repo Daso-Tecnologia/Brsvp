@@ -1,0 +1,62 @@
+.css_part_cpf_label, .css_part_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_cpf_grid_line, .css_part_cpf_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_cpf_tot_ger, .css_part_cpf_tot_ger:hover {text-align: ;text-align: right;}
+.css_part_cpf_informado_label, .css_part_cpf_informado_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_cpf_informado_grid_line, .css_part_cpf_informado_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tipochave_label, .css_tipochave_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_tipochave_grid_line, .css_tipochave_grid_line:hover {text-align: center;}
+.css_nome_pessoa_label, .css_nome_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_pessoa_grid_line, .css_nome_pessoa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_sexo_label, .css_part_sexo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_sexo_grid_line, .css_part_sexo_grid_line:hover {vertical-align: top;text-align: center;}
+.css_part_sexo_tot_ger, .css_part_sexo_tot_ger:hover {text-align: ;text-align: center;}
+.css_part_ddd_celular_01_label, .css_part_ddd_celular_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_ddd_celular_01_grid_line, .css_part_ddd_celular_01_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_celeular_01_label, .css_part_celeular_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_celeular_01_grid_line, .css_part_celeular_01_grid_line:hover {font-size:11px;vertical-align: top;text-align: right;}
+.css_part_id_evento_label, .css_part_id_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_part_id_evento_grid_line, .css_part_id_evento_grid_line:hover {vertical-align: top;text-align: center;}
+.css_nome_evento_label, .css_nome_evento_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_nome_evento_grid_line, .css_nome_evento_grid_line:hover {text-align: center;}
+.css_part_email_label, .css_part_email_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_email_grid_line, .css_part_email_grid_line:hover {vertical-align: top;text-align: right;}
+.css_dttrans_label, .css_dttrans_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_dttrans_grid_line, .css_dttrans_grid_line:hover {font-size:11px;text-align: right;}
+.css_evento_status_label, .css_evento_status_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_evento_status_grid_line, .css_evento_status_grid_line:hover {text-align: center;}
+.css_part_id_evento_publico_label, .css_part_id_evento_publico_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_part_id_evento_publico_grid_line, .css_part_id_evento_publico_grid_line:hover {vertical-align: top;text-align: center;}
+.css_part_id_evento_publico_tot_ger, .css_part_id_evento_publico_tot_ger:hover {text-align: ;text-align: center;}
+.css_publico_label, .css_publico_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_publico_grid_line, .css_publico_grid_line:hover {text-align: center;}
+.css_part_id_evento_regional_label, .css_part_id_evento_regional_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_part_id_evento_regional_grid_line, .css_part_id_evento_regional_grid_line:hover {vertical-align: top;text-align: center;}
+.css_part_id_evento_regional_tot_ger, .css_part_id_evento_regional_tot_ger:hover {text-align: ;text-align: center;}
+.css_regional_label, .css_regional_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_regional_grid_line, .css_regional_grid_line:hover {text-align: center;}
+.css_part_contato_rsvp_label, .css_part_contato_rsvp_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_contato_rsvp_grid_line, .css_part_contato_rsvp_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_presenca_label, .css_part_presenca_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_presenca_grid_line, .css_part_presenca_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_substituido_label, .css_part_substituido_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_substituido_grid_line, .css_part_substituido_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_cpf_substituto_label, .css_part_cpf_substituto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_cpf_substituto_grid_line, .css_part_cpf_substituto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_nome_substituto_label, .css_part_nome_substituto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_nome_substituto_grid_line, .css_part_nome_substituto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_dt_nasc_label, .css_part_dt_nasc_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_part_dt_nasc_grid_line, .css_part_dt_nasc_grid_line:hover {vertical-align: top;text-align: center;}
+.css_part_ativo_label, .css_part_ativo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_ativo_grid_line, .css_part_ativo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_dtevento_label, .css_dtevento_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_dtevento_grid_line, .css_dtevento_grid_line:hover {font-size:11px;text-align: center;}
+.css_acompanhantes_label, .css_acompanhantes_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_acompanhantes_grid_line, .css_acompanhantes_grid_line:hover {text-align: center;}
+.css_semacomp_label, .css_semacomp_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_semacomp_grid_line, .css_semacomp_grid_line:hover {text-align: center;}
+.css_participante_id_label, .css_participante_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_participante_id_grid_line, .css_participante_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_cpf_C_tot_ger, .css_part_cpf_C_tot_ger:hover {text-align: right;}
+.css_part_sexo_C_tot_ger, .css_part_sexo_C_tot_ger:hover {text-align: center;}
+.css_part_id_evento_publico_C_tot_ger, .css_part_id_evento_publico_C_tot_ger:hover {text-align: center;}
+.css_part_id_evento_regional_C_tot_ger, .css_part_id_evento_regional_C_tot_ger:hover {text-align: center;}

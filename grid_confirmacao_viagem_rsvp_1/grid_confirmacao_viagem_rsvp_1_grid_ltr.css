@@ -1,0 +1,22 @@
+.css_id_voucher_label, .css_id_voucher_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_voucher_grid_line, .css_id_voucher_grid_line:hover {vertical-align: top;text-align: right;}
+.css_criado_em_label, .css_criado_em_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_criado_em_grid_line, .css_criado_em_grid_line:hover {vertical-align: top;text-align: center;}
+.css_enviado_em_label, .css_enviado_em_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_enviado_em_grid_line, .css_enviado_em_grid_line:hover {vertical-align: top;text-align: center;}
+.css_cod_evento_label, .css_cod_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cod_evento_grid_line, .css_cod_evento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nome_evento_label, .css_nome_evento_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_evento_grid_line, .css_nome_evento_grid_line:hover {vertical-align: top;text-align: left;}
+.css_cod_participante_label, .css_cod_participante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cod_participante_grid_line, .css_cod_participante_grid_line:hover {vertical-align: top;text-align: left;}
+.css_nome_participante_label, .css_nome_participante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_participante_grid_line, .css_nome_participante_grid_line:hover {vertical-align: top;text-align: left;}
+.css_tipo_participante_label, .css_tipo_participante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_participante_grid_line, .css_tipo_participante_grid_line:hover {vertical-align: top;text-align: left;}
+.css_email_destinatario_label, .css_email_destinatario_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_email_destinatario_grid_line, .css_email_destinatario_grid_line:hover {vertical-align: top;text-align: left;}
+.css_status_label, .css_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_grid_line, .css_status_grid_line:hover {vertical-align: top;text-align: left;}
+.css_enviar_label, .css_enviar_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_enviar_grid_line, .css_enviar_grid_line:hover {vertical-align: top;text-align: left;}

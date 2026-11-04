@@ -1,0 +1,7 @@
+_lib/
+*.log
+*.bak
+*.sql
+*.env
+.env*
+nm_*.conf

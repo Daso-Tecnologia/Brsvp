@@ -1,0 +1,72 @@
+.css_hosp_id_evento__label, .css_hosp_id_evento__label a, .css_hosp_id_evento__label span{ }
+.css_hosp_id_evento__label span  span{line-height:1.5;}
+.css_hosp_id_evento__line, .css_hosp_id_evento__line a, .css_hosp_id_evento__line >span{text-align:left;}
+.css_hosp_id_evento__line span  span{line-height:1.5;}
+.css_hosp_id_evento__obj, .css_hosp_id_evento__obj a, .css_hosp_id_evento__obj span{text-align:left;}
+.css_hosp_id_evento__obj span  span{line-height:1.5;}
+.css_hosp_cpf_participante__label, .css_hosp_cpf_participante__label a, .css_hosp_cpf_participante__label span{ }
+.css_hosp_cpf_participante__label span  span{line-height:1.5;}
+.css_hosp_cpf_participante__line, .css_hosp_cpf_participante__line a, .css_hosp_cpf_participante__line >span{ }
+.css_hosp_cpf_participante__line span  span{line-height:1.5;}
+.css_hosp_cpf_participante__obj, .css_hosp_cpf_participante__obj a, .css_hosp_cpf_participante__obj span{ }
+.css_hosp_cpf_participante__obj span  span{line-height:1.5;}
+.css_hosp_id_hotel__label, .css_hosp_id_hotel__label a, .css_hosp_id_hotel__label span{ }
+.css_hosp_id_hotel__label span  span{line-height:1.5;}
+.css_hosp_id_hotel__line, .css_hosp_id_hotel__line a, .css_hosp_id_hotel__line >span{text-align:left;}
+.css_hosp_id_hotel__line span  span{line-height:1.5;}
+.css_hosp_id_hotel__obj, .css_hosp_id_hotel__obj a, .css_hosp_id_hotel__obj span{text-align:left;}
+.css_hosp_id_hotel__obj span  span{line-height:1.5;}
+.css_hosp_acomodacao__label, .css_hosp_acomodacao__label a, .css_hosp_acomodacao__label span{ }
+.css_hosp_acomodacao__label span  span{line-height:1.5;}
+.css_hosp_acomodacao__line, .css_hosp_acomodacao__line a, .css_hosp_acomodacao__line >span{text-align:left;}
+.css_hosp_acomodacao__line span  span{line-height:1.5;}
+.css_hosp_acomodacao__obj, .css_hosp_acomodacao__obj a, .css_hosp_acomodacao__obj span{text-align:left;}
+.css_hosp_acomodacao__obj span  span{line-height:1.5;}
+.css_hosp_categoria__label, .css_hosp_categoria__label a, .css_hosp_categoria__label span{ }
+.css_hosp_categoria__label span  span{line-height:1.5;}
+.css_hosp_categoria__line, .css_hosp_categoria__line a, .css_hosp_categoria__line >span{text-align:left;}
+.css_hosp_categoria__line span  span{line-height:1.5;}
+.css_hosp_categoria__obj, .css_hosp_categoria__obj a, .css_hosp_categoria__obj span{text-align:left;}
+.css_hosp_categoria__obj span  span{line-height:1.5;}
+.css_hosp_status__label, .css_hosp_status__label a, .css_hosp_status__label span{ }
+.css_hosp_status__label span  span{line-height:1.5;}
+.css_hosp_status__line, .css_hosp_status__line a, .css_hosp_status__line >span{ }
+.css_hosp_status__line span  span{line-height:1.5;}
+.css_hosp_status__obj, .css_hosp_status__obj a, .css_hosp_status__obj span{ }
+.css_hosp_status__obj span  span{line-height:1.5;}
+.css_conta_roomlist__label, .css_conta_roomlist__label a, .css_conta_roomlist__label span{ }
+.css_conta_roomlist__label span  span{line-height:1.5;}
+.css_conta_roomlist__line, .css_conta_roomlist__line a, .css_conta_roomlist__line >span{ }
+.css_conta_roomlist__line span  span{line-height:1.5;}
+.css_conta_roomlist__obj, .css_conta_roomlist__obj a, .css_conta_roomlist__obj span{ }
+.css_conta_roomlist__obj span  span{line-height:1.5;}
+.css_nome_evento__label, .css_nome_evento__label a, .css_nome_evento__label span{ }
+.css_nome_evento__label span  span{line-height:1.5;}
+.css_nome_evento__line, .css_nome_evento__line a, .css_nome_evento__line >span{ }
+.css_nome_evento__line span  span{line-height:1.5;}
+.css_nome_evento__obj, .css_nome_evento__obj a, .css_nome_evento__obj span{ }
+.css_nome_evento__obj span  span{line-height:1.5;}
+.css_nome_participante__label, .css_nome_participante__label a, .css_nome_participante__label span{ }
+.css_nome_participante__label span  span{line-height:1.5;}
+.css_nome_participante__line, .css_nome_participante__line a, .css_nome_participante__line >span{ }
+.css_nome_participante__line span  span{line-height:1.5;}
+.css_nome_participante__obj, .css_nome_participante__obj a, .css_nome_participante__obj span{ }
+.css_nome_participante__obj span  span{line-height:1.5;}
+.css_nome_hotel__label, .css_nome_hotel__label a, .css_nome_hotel__label span{ }
+.css_nome_hotel__label span  span{line-height:1.5;}
+.css_nome_hotel__line, .css_nome_hotel__line a, .css_nome_hotel__line >span{color:#755ef7;}
+.css_nome_hotel__line span  span{line-height:1.5;}
+.css_nome_hotel__obj, .css_nome_hotel__obj a, .css_nome_hotel__obj span{ }
+.css_nome_hotel__obj span  span{line-height:1.5;}
+.css_nome_acomodacao__label, .css_nome_acomodacao__label a, .css_nome_acomodacao__label span{ }
+.css_nome_acomodacao__label span  span{line-height:1.5;}
+.css_nome_acomodacao__line, .css_nome_acomodacao__line a, .css_nome_acomodacao__line >span{color:#2070e0;}
+.css_nome_acomodacao__line span  span{line-height:1.5;}
+.css_nome_acomodacao__obj, .css_nome_acomodacao__obj a, .css_nome_acomodacao__obj span{ }
+.css_nome_acomodacao__obj span  span{line-height:1.5;}
+.css_nome_categoria__label, .css_nome_categoria__label a, .css_nome_categoria__label span{ }
+.css_nome_categoria__label span  span{line-height:1.5;}
+.css_nome_categoria__line, .css_nome_categoria__line a, .css_nome_categoria__line >span{color:#2290f0;}
+.css_nome_categoria__line span  span{line-height:1.5;}
+.css_nome_categoria__obj, .css_nome_categoria__obj a, .css_nome_categoria__obj span{ }
+.css_nome_categoria__obj span  span{line-height:1.5;}

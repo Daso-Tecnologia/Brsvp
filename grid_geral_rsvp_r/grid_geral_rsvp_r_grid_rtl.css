@@ -1,0 +1,186 @@
+.css_evento_id_label, .css_evento_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_evento_id_grid_line, .css_evento_id_grid_line:hover {font-weight:bold;vertical-align: top;text-align: right;}
+.css_evento_dsc_label, .css_evento_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_dsc_grid_line, .css_evento_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nome_participante_label, .css_nome_participante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_participante_grid_line, .css_nome_participante_grid_line:hover {color:#0066FF;font-weight:bold;vertical-align: top;text-align: right;}
+.css_tipo_pessoa_label, .css_tipo_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_pessoa_grid_line, .css_tipo_pessoa_grid_line:hover {color:#9966FF;vertical-align: top;text-align: right;}
+.css_data_nascimento_label, .css_data_nascimento_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_nascimento_grid_line, .css_data_nascimento_grid_line:hover {vertical-align: top;text-align: center;}
+.css_rg_label, .css_rg_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_rg_grid_line, .css_rg_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nome_cracha_label, .css_nome_cracha_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_cracha_grid_line, .css_nome_cracha_grid_line:hover {vertical-align: top;text-align: right;}
+.css_convidado_original_label, .css_convidado_original_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_convidado_original_grid_line, .css_convidado_original_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nome_substituto_label, .css_nome_substituto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_substituto_grid_line, .css_nome_substituto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_acomp_mesmoquarto_label, .css_acomp_mesmoquarto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_acomp_mesmoquarto_grid_line, .css_acomp_mesmoquarto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_partici_mesmoquarto_label, .css_partici_mesmoquarto_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_partici_mesmoquarto_grid_line, .css_partici_mesmoquarto_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hotel_dsc_label, .css_hotel_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_dsc_grid_line, .css_hotel_dsc_grid_line:hover {color:#FF66CC;background-color:#CCFFCC;vertical-align: top;text-align: right;}
+.css_checkin_label, .css_checkin_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_checkin_grid_line, .css_checkin_grid_line:hover {color:#FF9900;vertical-align: top;text-align: center;}
+.css_checkout_label, .css_checkout_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_checkout_grid_line, .css_checkout_grid_line:hover {color:#FF9933;vertical-align: top;text-align: center;}
+.css_early_checkin_label, .css_early_checkin_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_early_checkin_grid_line, .css_early_checkin_grid_line:hover {vertical-align: top;text-align: right;}
+.css_late_checkout_label, .css_late_checkout_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_late_checkout_grid_line, .css_late_checkout_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tamanho_camisa_label, .css_tamanho_camisa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tamanho_camisa_grid_line, .css_tamanho_camisa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tamanho_calcado_label, .css_tamanho_calcado_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tamanho_calcado_grid_line, .css_tamanho_calcado_grid_line:hover {vertical-align: top;text-align: right;}
+.css_empresa_label, .css_empresa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_grid_line, .css_empresa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cargo_label, .css_cargo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cargo_grid_line, .css_cargo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_departamento_label, .css_departamento_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_departamento_grid_line, .css_departamento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_grupo_label, .css_grupo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_grupo_grid_line, .css_grupo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_publico_dsc_label, .css_publico_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_publico_dsc_grid_line, .css_publico_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_regional_dsc_label, .css_regional_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_regional_dsc_grid_line, .css_regional_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_cadastro_label, .css_data_cadastro_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_cadastro_grid_line, .css_data_cadastro_grid_line:hover {vertical-align: top;text-align: center;}
+.css_logradouro_label, .css_logradouro_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_logradouro_grid_line, .css_logradouro_grid_line:hover {vertical-align: top;text-align: right;}
+.css_complemento_label, .css_complemento_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_complemento_grid_line, .css_complemento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cidade_label, .css_cidade_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cidade_grid_line, .css_cidade_grid_line:hover {vertical-align: top;text-align: right;}
+.css_bairro_label, .css_bairro_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_bairro_grid_line, .css_bairro_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cep_label, .css_cep_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cep_grid_line, .css_cep_grid_line:hover {vertical-align: top;text-align: right;}
+.css_uf_label, .css_uf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_uf_grid_line, .css_uf_grid_line:hover {vertical-align: top;text-align: right;}
+.css_pais_dsc_label, .css_pais_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_pais_dsc_grid_line, .css_pais_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_ddd_tel01_label, .css_ddd_tel01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ddd_tel01_grid_line, .css_ddd_tel01_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tel01_label, .css_tel01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tel01_grid_line, .css_tel01_grid_line:hover {vertical-align: top;text-align: right;}
+.css_ddd_celular_label, .css_ddd_celular_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ddd_celular_grid_line, .css_ddd_celular_grid_line:hover {color:#0099CC;vertical-align: top;text-align: right;}
+.css_celular_label, .css_celular_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_celular_grid_line, .css_celular_grid_line:hover {color:#9966FF;vertical-align: top;text-align: right;}
+.css_telefone_internacional_label, .css_telefone_internacional_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_telefone_internacional_grid_line, .css_telefone_internacional_grid_line:hover {vertical-align: top;text-align: right;}
+.css_passaporte_label, .css_passaporte_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_passaporte_grid_line, .css_passaporte_grid_line:hover {vertical-align: top;text-align: right;}
+.css_validade_passporte_label, .css_validade_passporte_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_validade_passporte_grid_line, .css_validade_passporte_grid_line:hover {vertical-align: top;text-align: center;}
+.css_cpf_label, .css_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_grid_line, .css_cpf_grid_line:hover {color:#0099FF;vertical-align: top;text-align: right;}
+.css_filiacao_label, .css_filiacao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_filiacao_grid_line, .css_filiacao_grid_line:hover {vertical-align: top;text-align: right;}
+.css_fumante_label, .css_fumante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_fumante_grid_line, .css_fumante_grid_line:hover {vertical-align: top;text-align: right;}
+.css_restricao_alimentar_label, .css_restricao_alimentar_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_restricao_alimentar_grid_line, .css_restricao_alimentar_grid_line:hover {vertical-align: top;text-align: right;}
+.css_e_mail_label, .css_e_mail_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_e_mail_grid_line, .css_e_mail_grid_line:hover {vertical-align: top;text-align: right;}
+.css_atualizacao_presenca_label, .css_atualizacao_presenca_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_atualizacao_presenca_grid_line, .css_atualizacao_presenca_grid_line:hover {vertical-align: top;text-align: center;}
+.css_presenca_label, .css_presenca_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_presenca_grid_line, .css_presenca_grid_line:hover {color:#339900;vertical-align: top;text-align: right;}
+.css_dt_confirm_presenca_label, .css_dt_confirm_presenca_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dt_confirm_presenca_grid_line, .css_dt_confirm_presenca_grid_line:hover {vertical-align: top;text-align: center;}
+.css_presenca_motivo_label, .css_presenca_motivo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_presenca_motivo_grid_line, .css_presenca_motivo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_presenca_atendente_label, .css_presenca_atendente_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_presenca_atendente_grid_line, .css_presenca_atendente_grid_line:hover {vertical-align: top;text-align: right;}
+.css_presenca_obs_label, .css_presenca_obs_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_presenca_obs_grid_line, .css_presenca_obs_grid_line:hover {vertical-align: top;text-align: right;}
+.css_contato_antendente_label, .css_contato_antendente_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_contato_antendente_grid_line, .css_contato_antendente_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_contato_label, .css_data_contato_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_contato_grid_line, .css_data_contato_grid_line:hover {vertical-align: top;text-align: center;}
+.css_motivo_contato_label, .css_motivo_contato_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_motivo_contato_grid_line, .css_motivo_contato_grid_line:hover {vertical-align: top;text-align: right;}
+.css_obs_contato_label, .css_obs_contato_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_obs_contato_grid_line, .css_obs_contato_grid_line:hover {vertical-align: top;text-align: right;}
+.css_status_contato_label, .css_status_contato_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_contato_grid_line, .css_status_contato_grid_line:hover {vertical-align: top;text-align: right;}
+.css_hora_saida_ida_label, .css_hora_saida_ida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hora_saida_ida_grid_line, .css_hora_saida_ida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_trecho_label, .css_trecho_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_trecho_grid_line, .css_trecho_grid_line:hover {color:#CC66CC;vertical-align: top;text-align: right;}
+.css_hotel_ida_dsc_label, .css_hotel_ida_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_ida_dsc_grid_line, .css_hotel_ida_dsc_grid_line:hover {color:#FF6600;background-color:#CCFFCC;vertical-align: top;text-align: right;}
+.css_comprada_bvt_ida_label, .css_comprada_bvt_ida_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_comprada_bvt_ida_grid_line, .css_comprada_bvt_ida_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_saida_ida_label, .css_data_saida_ida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_saida_ida_grid_line, .css_data_saida_ida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_origem_dsc_ida_label, .css_origem_dsc_ida_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_origem_dsc_ida_grid_line, .css_origem_dsc_ida_grid_line:hover {vertical-align: top;text-align: right;}
+.css_destino_dsc_ida_label, .css_destino_dsc_ida_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_destino_dsc_ida_grid_line, .css_destino_dsc_ida_grid_line:hover {vertical-align: top;text-align: right;}
+.css_voo_ida_label, .css_voo_ida_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_voo_ida_grid_line, .css_voo_ida_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cia_dsc_ida_label, .css_cia_dsc_ida_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cia_dsc_ida_grid_line, .css_cia_dsc_ida_grid_line:hover {vertical-align: top;text-align: right;}
+.css_localizador_ida_label, .css_localizador_ida_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_localizador_ida_grid_line, .css_localizador_ida_grid_line:hover {vertical-align: top;text-align: right;}
+.css_etkt_ida_label, .css_etkt_ida_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_etkt_ida_grid_line, .css_etkt_ida_grid_line:hover {vertical-align: top;text-align: right;}
+.css_data_chegada_ida_label, .css_data_chegada_ida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_chegada_ida_grid_line, .css_data_chegada_ida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hora_chegada_ida_label, .css_hora_chegada_ida_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hora_chegada_ida_grid_line, .css_hora_chegada_ida_grid_line:hover {vertical-align: top;text-align: center;}
+.css_status_aereo_ida_label, .css_status_aereo_ida_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_aereo_ida_grid_line, .css_status_aereo_ida_grid_line:hover {vertical-align: top;text-align: right;}
+.css_trecho_volta_label, .css_trecho_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_trecho_volta_grid_line, .css_trecho_volta_grid_line:hover {color:#9933CC;vertical-align: top;text-align: right;}
+.css_hotel_volta_dsc_label, .css_hotel_volta_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hotel_volta_dsc_grid_line, .css_hotel_volta_dsc_grid_line:hover {color:#CC66FF;background-color:#CCFFCC;vertical-align: top;text-align: right;}
+.css_hr_transfer_volta_label, .css_hr_transfer_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_hr_transfer_volta_grid_line, .css_hr_transfer_volta_grid_line:hover {color:#6699FF;vertical-align: top;text-align: right;}
+.css_comprada_bvt_volta_label, .css_comprada_bvt_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_comprada_bvt_volta_grid_line, .css_comprada_bvt_volta_grid_line:hover {color:#FF9933;vertical-align: top;text-align: right;}
+.css_data_saida_volta_label, .css_data_saida_volta_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_saida_volta_grid_line, .css_data_saida_volta_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hora_saida_volta_label, .css_hora_saida_volta_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hora_saida_volta_grid_line, .css_hora_saida_volta_grid_line:hover {vertical-align: top;text-align: center;}
+.css_data_chegada_volta_label, .css_data_chegada_volta_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_data_chegada_volta_grid_line, .css_data_chegada_volta_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hora_chegada_volta_label, .css_hora_chegada_volta_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hora_chegada_volta_grid_line, .css_hora_chegada_volta_grid_line:hover {vertical-align: top;text-align: center;}
+.css_origem_dsc_volta_label, .css_origem_dsc_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_origem_dsc_volta_grid_line, .css_origem_dsc_volta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_destino_dsc_volta_label, .css_destino_dsc_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_destino_dsc_volta_grid_line, .css_destino_dsc_volta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cia_dsc_volta_label, .css_cia_dsc_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cia_dsc_volta_grid_line, .css_cia_dsc_volta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_voo_volta_label, .css_voo_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_voo_volta_grid_line, .css_voo_volta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_localizador_volta_label, .css_localizador_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_localizador_volta_grid_line, .css_localizador_volta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_etkt_volta_label, .css_etkt_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_etkt_volta_grid_line, .css_etkt_volta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_status_aereo_volta_label, .css_status_aereo_volta_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_status_aereo_volta_grid_line, .css_status_aereo_volta_grid_line:hover {color:#6666FF;vertical-align: top;text-align: right;}
+.css_tipo_transfer_label, .css_tipo_transfer_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_transfer_grid_line, .css_tipo_transfer_grid_line:hover {color:#CC3399;vertical-align: top;text-align: right;}
+.css_dt_chegada_proprio_label, .css_dt_chegada_proprio_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dt_chegada_proprio_grid_line, .css_dt_chegada_proprio_grid_line:hover {vertical-align: top;text-align: center;}
+.css_hr_chegada_proprio_label, .css_hr_chegada_proprio_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_hr_chegada_proprio_grid_line, .css_hr_chegada_proprio_grid_line:hover {vertical-align: top;text-align: center;}
+.css_valor_diaria_label, .css_valor_diaria_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_diaria_grid_line, .css_valor_diaria_grid_line:hover {vertical-align: top;text-align: right;}
+.css_valor_taxa_label, .css_valor_taxa_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_taxa_grid_line, .css_valor_taxa_grid_line:hover {vertical-align: top;text-align: right;}
+.css_obs_transfer_label, .css_obs_transfer_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_obs_transfer_grid_line, .css_obs_transfer_grid_line:hover {vertical-align: top;text-align: right;}
+.css_anotacoes_label, .css_anotacoes_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_anotacoes_grid_line, .css_anotacoes_grid_line:hover {vertical-align: top;text-align: right;}
+.css_id_geral_label, .css_id_geral_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_geral_grid_line, .css_id_geral_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cpf_mestre_label, .css_cpf_mestre_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_mestre_grid_line, .css_cpf_mestre_grid_line:hover {vertical-align: top;text-align: right;}

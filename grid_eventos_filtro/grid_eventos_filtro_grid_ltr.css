@@ -1,0 +1,58 @@
+.css_evento_id_disp_label, .css_evento_id_disp_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_evento_id_disp_grid_line, .css_evento_id_disp_grid_line:hover {text-align: left;}
+.css_evento_nome_label, .css_evento_nome_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_nome_grid_line, .css_evento_nome_grid_line:hover {vertical-align: top;text-align: left;}
+.css_evento_dt_realizacao_label, .css_evento_dt_realizacao_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_evento_dt_realizacao_grid_line, .css_evento_dt_realizacao_grid_line:hover {vertical-align: top;text-align: center;}
+.css_evento_dt_conclusao_label, .css_evento_dt_conclusao_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_evento_dt_conclusao_grid_line, .css_evento_dt_conclusao_grid_line:hover {vertical-align: top;text-align: center;}
+.css_evento_status_label, .css_evento_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_status_grid_line, .css_evento_status_grid_line:hover {vertical-align: top;text-align: left;}
+.css_evento_logo_label, .css_evento_logo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_logo_grid_line, .css_evento_logo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_participante_id_label, .css_participante_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_participante_id_grid_line, .css_participante_id_grid_line:hover {text-align: center;}
+.css_participante_gray_label, .css_participante_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_participante_gray_grid_line, .css_participante_gray_grid_line:hover {text-align: center;}
+.css_empresa_id_label, .css_empresa_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_empresa_id_grid_line, .css_empresa_id_grid_line:hover {text-align: center;}
+.css_empresa_gray_label, .css_empresa_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_empresa_gray_grid_line, .css_empresa_gray_grid_line:hover {text-align: center;}
+.css_usuario_id_label, .css_usuario_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_usuario_id_grid_line, .css_usuario_id_grid_line:hover {text-align: center;}
+.css_usuario_gray_label, .css_usuario_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_usuario_gray_grid_line, .css_usuario_gray_grid_line:hover {text-align: center;}
+.css_publico_id_label, .css_publico_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_publico_id_grid_line, .css_publico_id_grid_line:hover {text-align: center;}
+.css_publico_gray_label, .css_publico_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_publico_gray_grid_line, .css_publico_gray_grid_line:hover {text-align: center;}
+.css_hotel_id_label, .css_hotel_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_id_grid_line, .css_hotel_id_grid_line:hover {text-align: center;}
+.css_hotel_gray_label, .css_hotel_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_hotel_gray_grid_line, .css_hotel_gray_grid_line:hover {text-align: center;}
+.css_ciaerea_id_label, .css_ciaerea_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_ciaerea_id_grid_line, .css_ciaerea_id_grid_line:hover {text-align: center;}
+.css_ciaerea_gray_label, .css_ciaerea_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_ciaerea_gray_grid_line, .css_ciaerea_gray_grid_line:hover {text-align: center;}
+.css_tour_id_label, .css_tour_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_tour_id_grid_line, .css_tour_id_grid_line:hover {text-align: center;}
+.css_tour_gray_label, .css_tour_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_tour_gray_grid_line, .css_tour_gray_grid_line:hover {text-align: center;}
+.css_prog_id_label, .css_prog_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_prog_id_grid_line, .css_prog_id_grid_line:hover {text-align: center;}
+.css_prog_gray_label, .css_prog_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_prog_gray_grid_line, .css_prog_gray_grid_line:hover {text-align: center;}
+.css_regional_id_label, .css_regional_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_regional_id_grid_line, .css_regional_id_grid_line:hover {text-align: center;}
+.css_regional_gray_label, .css_regional_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_regional_gray_grid_line, .css_regional_gray_grid_line:hover {text-align: center;}
+.css_check_part_ok_label, .css_check_part_ok_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_check_part_ok_grid_line, .css_check_part_ok_grid_line:hover {text-align: center;}
+.css_evento_id_label, .css_evento_id_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_evento_id_grid_line, .css_evento_id_grid_line:hover {text-align: left;}
+.css_evento_id_interno_label, .css_evento_id_interno_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_id_interno_grid_line, .css_evento_id_interno_grid_line:hover {vertical-align: top;text-align: left;}
+.css_evento_id_complementar_label, .css_evento_id_complementar_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_id_complementar_grid_line, .css_evento_id_complementar_grid_line:hover {vertical-align: top;text-align: left;}
+.css_evento_idioma_label, .css_evento_idioma_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_evento_idioma_grid_line, .css_evento_idioma_grid_line:hover {vertical-align: top;text-align: left;}

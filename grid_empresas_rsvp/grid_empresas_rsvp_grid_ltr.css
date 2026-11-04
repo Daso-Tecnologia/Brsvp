@@ -1,0 +1,16 @@
+.css_empresa_id_label, .css_empresa_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_empresa_id_grid_line, .css_empresa_id_grid_line:hover {font-weight:bold;vertical-align: top;text-align: right;}
+.css_empresa_cnpj_label, .css_empresa_cnpj_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_cnpj_grid_line, .css_empresa_cnpj_grid_line:hover {vertical-align: top;text-align: left;}
+.css_empresa_fantasia_label, .css_empresa_fantasia_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_fantasia_grid_line, .css_empresa_fantasia_grid_line:hover {vertical-align: top;text-align: left;}
+.css_empresa_razsoc_label, .css_empresa_razsoc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_razsoc_grid_line, .css_empresa_razsoc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_empresa_municipio_label, .css_empresa_municipio_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_municipio_grid_line, .css_empresa_municipio_grid_line:hover {vertical-align: top;text-align: left;}
+.css_empresa_logo_label, .css_empresa_logo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_logo_grid_line, .css_empresa_logo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_usuario_label, .css_usuario_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_usuario_grid_line, .css_usuario_grid_line:hover {text-align: center;}
+.css_empresa_inscestad_label, .css_empresa_inscestad_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_inscestad_grid_line, .css_empresa_inscestad_grid_line:hover {vertical-align: top;text-align: left;}

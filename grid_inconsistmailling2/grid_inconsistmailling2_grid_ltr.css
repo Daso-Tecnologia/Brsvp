@@ -1,0 +1,20 @@
+.css_numerolinha_label, .css_numerolinha_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_numerolinha_grid_line, .css_numerolinha_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nomeplan_label, .css_nomeplan_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nomeplan_grid_line, .css_nomeplan_grid_line:hover {vertical-align: top;text-align: left;}
+.css_descricaoerro_label, .css_descricaoerro_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descricaoerro_grid_line, .css_descricaoerro_grid_line:hover {vertical-align: top;text-align: left;}
+.css_idevento_label, .css_idevento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idevento_grid_line, .css_idevento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_idusuario_label, .css_idusuario_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idusuario_grid_line, .css_idusuario_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cpf_label, .css_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_grid_line, .css_cpf_grid_line:hover {vertical-align: top;text-align: left;}
+.css_cpf_tot_ger, .css_cpf_tot_ger:hover {text-align: ;text-align: left;}
+.css_cpf_correcao_planilha_label, .css_cpf_correcao_planilha_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cpf_correcao_planilha_grid_line, .css_cpf_correcao_planilha_grid_line:hover {vertical-align: top;text-align: left;}
+.css_tipo_correcao_label, .css_tipo_correcao_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_correcao_grid_line, .css_tipo_correcao_grid_line:hover {vertical-align: top;text-align: left;}
+.css_id_inconsistencia_label, .css_id_inconsistencia_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_inconsistencia_grid_line, .css_id_inconsistencia_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cpf_C_tot_ger, .css_cpf_C_tot_ger:hover {text-align: left;}

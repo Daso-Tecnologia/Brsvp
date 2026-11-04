@@ -1,0 +1,78 @@
+.css_part_cpf__label, .css_part_cpf__label a, .css_part_cpf__label span{ white-space: nowrap;}
+.css_part_cpf__label span  span{line-height:1.5;}
+.css_part_cpf__line, .css_part_cpf__line a, .css_part_cpf__line >span{ }
+.css_part_cpf__line span  span{line-height:1.5;}
+.css_part_cpf__obj, .css_part_cpf__obj a, .css_part_cpf__obj span{ }
+.css_part_cpf__obj span  span{line-height:1.5;}
+.css_nome_pessoa__label, .css_nome_pessoa__label a, .css_nome_pessoa__label span{color:#af56fc !important; white-space: nowrap;}
+.css_nome_pessoa__label span  span{line-height:1.5;}
+.css_nome_pessoa__line, .css_nome_pessoa__line a, .css_nome_pessoa__line >span{color:#af56fc !important;}
+.css_nome_pessoa__line span  span{line-height:1.5;}
+.css_nome_pessoa__obj, .css_nome_pessoa__obj a, .css_nome_pessoa__obj span{ }
+.css_nome_pessoa__obj span  span{line-height:1.5;}
+.css_part_id_evento__label, .css_part_id_evento__label a, .css_part_id_evento__label span{text-align:; white-space: nowrap;}
+.css_part_id_evento__label span  span{line-height:1.5;}
+.css_part_id_evento__line, .css_part_id_evento__line a, .css_part_id_evento__line >span{text-align:left;}
+.css_part_id_evento__line span  span{line-height:1.5;}
+.css_part_id_evento__obj, .css_part_id_evento__obj a, .css_part_id_evento__obj span{text-align:left;}
+.css_part_id_evento__obj span  span{line-height:1.5;}
+.css_part_id_evento_publico__label, .css_part_id_evento_publico__label a, .css_part_id_evento_publico__label span{ white-space: nowrap;}
+.css_part_id_evento_publico__label span  span{line-height:1.5;}
+.css_part_id_evento_publico__line, .css_part_id_evento_publico__line a, .css_part_id_evento_publico__line >span{text-align:left;}
+.css_part_id_evento_publico__line span  span{line-height:1.5;}
+.css_part_id_evento_publico__obj, .css_part_id_evento_publico__obj a, .css_part_id_evento_publico__obj span{text-align:left;}
+.css_part_id_evento_publico__obj span  span{line-height:1.5;}
+.css_part_ddd_celular_01__label, .css_part_ddd_celular_01__label a, .css_part_ddd_celular_01__label span{ white-space: nowrap;}
+.css_part_ddd_celular_01__label span  span{line-height:1.5;}
+.css_part_ddd_celular_01__line, .css_part_ddd_celular_01__line a, .css_part_ddd_celular_01__line >span{ }
+.css_part_ddd_celular_01__line span  span{line-height:1.5;}
+.css_part_ddd_celular_01__obj, .css_part_ddd_celular_01__obj a, .css_part_ddd_celular_01__obj span{ }
+.css_part_ddd_celular_01__obj span  span{line-height:1.5;}
+.css_part_celeular_01__label, .css_part_celeular_01__label a, .css_part_celeular_01__label span{ white-space: nowrap;}
+.css_part_celeular_01__label span  span{line-height:1.5;}
+.css_part_celeular_01__line, .css_part_celeular_01__line a, .css_part_celeular_01__line >span{ }
+.css_part_celeular_01__line span  span{line-height:1.5;}
+.css_part_celeular_01__obj, .css_part_celeular_01__obj a, .css_part_celeular_01__obj span{ }
+.css_part_celeular_01__obj span  span{line-height:1.5;}
+.css_part_email__label, .css_part_email__label a, .css_part_email__label span{ white-space: nowrap;}
+.css_part_email__label span  span{line-height:1.5;}
+.css_part_email__line, .css_part_email__line a, .css_part_email__line >span{ }
+.css_part_email__line span  span{line-height:1.5;}
+.css_part_email__obj, .css_part_email__obj a, .css_part_email__obj span{ }
+.css_part_email__obj span  span{line-height:1.5;}
+.css_dsc_empresa_rsvp__label, .css_dsc_empresa_rsvp__label a, .css_dsc_empresa_rsvp__label span{ white-space: nowrap;}
+.css_dsc_empresa_rsvp__label span  span{line-height:1.5;}
+.css_dsc_empresa_rsvp__line, .css_dsc_empresa_rsvp__line a, .css_dsc_empresa_rsvp__line >span{ }
+.css_dsc_empresa_rsvp__line span  span{line-height:1.5;}
+.css_dsc_empresa_rsvp__obj, .css_dsc_empresa_rsvp__obj a, .css_dsc_empresa_rsvp__obj span{ }
+.css_dsc_empresa_rsvp__obj span  span{line-height:1.5;}
+.css_roles_app__label, .css_roles_app__label a, .css_roles_app__label span{ white-space: nowrap;}
+.css_roles_app__label span  span{line-height:1.5;}
+.css_roles_app__line, .css_roles_app__line a, .css_roles_app__line >span{ }
+.css_roles_app__line span  span{line-height:1.5;}
+.css_roles_app__obj, .css_roles_app__obj a, .css_roles_app__obj span{ }
+.css_roles_app__obj span  span{line-height:1.5;}
+.css_external_status__label, .css_external_status__label a, .css_external_status__label span{color:#ed40ed !important;font-weight:normal; white-space: nowrap;}
+.css_external_status__label span  span{line-height:1.5;}
+.css_external_status__line, .css_external_status__line a, .css_external_status__line >span{font-size:13px;color:#ed40ed !important;background-color:#edf0fc !important;font-weight:bold;}
+.css_external_status__line span  span{line-height:1.5;}
+.css_external_status__obj, .css_external_status__obj a, .css_external_status__obj span{ }
+.css_external_status__obj span  span{line-height:1.5;}
+.css_codigo_telefone_internacional__label, .css_codigo_telefone_internacional__label a, .css_codigo_telefone_internacional__label span{ white-space: nowrap;}
+.css_codigo_telefone_internacional__label span  span{line-height:1.5;}
+.css_codigo_telefone_internacional__line, .css_codigo_telefone_internacional__line a, .css_codigo_telefone_internacional__line >span{ }
+.css_codigo_telefone_internacional__line span  span{line-height:1.5;}
+.css_codigo_telefone_internacional__obj, .css_codigo_telefone_internacional__obj a, .css_codigo_telefone_internacional__obj span{ }
+.css_codigo_telefone_internacional__obj span  span{line-height:1.5;}
+.css_retorno_api__label, .css_retorno_api__label a, .css_retorno_api__label span{color:#3e23eb !important; white-space: nowrap;}
+.css_retorno_api__label span  span{line-height:1.5;}
+.css_retorno_api__line, .css_retorno_api__line a, .css_retorno_api__line >span{color:#3e23eb !important;}
+.css_retorno_api__line span  span{line-height:1.5;}
+.css_retorno_api__obj, .css_retorno_api__obj a, .css_retorno_api__obj span{ }
+.css_retorno_api__obj span  span{line-height:1.5;}
+.css_dsc_publico__label, .css_dsc_publico__label a, .css_dsc_publico__label span{; white-space: nowrap;}
+.css_dsc_publico__label span  span{line-height:1.5;}
+.css_dsc_publico__line, .css_dsc_publico__line a, .css_dsc_publico__line >span{ }
+.css_dsc_publico__line span  span{line-height:1.5;}
+.css_dsc_publico__obj, .css_dsc_publico__obj a, .css_dsc_publico__obj span{ }
+.css_dsc_publico__obj span  span{line-height:1.5;}

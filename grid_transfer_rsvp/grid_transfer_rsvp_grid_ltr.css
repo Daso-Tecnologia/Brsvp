@@ -1,0 +1,40 @@
+.css_id_transfer_label, .css_id_transfer_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_transfer_grid_line, .css_id_transfer_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tra_id_evento_label, .css_tra_id_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tra_id_evento_grid_line, .css_tra_id_evento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tipo_transfer_dsc_label, .css_tipo_transfer_dsc_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_tipo_transfer_dsc_grid_line, .css_tipo_transfer_dsc_grid_line:hover {text-align: left;}
+.css_tra_id_usuario_label, .css_tra_id_usuario_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tra_id_usuario_grid_line, .css_tra_id_usuario_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tra_id_hotel_label, .css_tra_id_hotel_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tra_id_hotel_grid_line, .css_tra_id_hotel_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tra_ult_trecho_volta_label, .css_tra_ult_trecho_volta_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tra_ult_trecho_volta_grid_line, .css_tra_ult_trecho_volta_grid_line:hover {vertical-align: top;text-align: right;}
+.css_transfer_gray_label, .css_transfer_gray_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_transfer_gray_grid_line, .css_transfer_gray_grid_line:hover {text-align: center;}
+.css_transfer_green_label, .css_transfer_green_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_transfer_green_grid_line, .css_transfer_green_grid_line:hover {text-align: center;}
+.css_transfer_yellow_label, .css_transfer_yellow_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_transfer_yellow_grid_line, .css_transfer_yellow_grid_line:hover {text-align: center;}
+.css_transfer_red_label, .css_transfer_red_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_transfer_red_grid_line, .css_transfer_red_grid_line:hover {text-align: center;}
+.css_transfer_roxo_label, .css_transfer_roxo_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_transfer_roxo_grid_line, .css_transfer_roxo_grid_line:hover {text-align: center;}
+.css_grid_aereo_label, .css_grid_aereo_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_grid_aereo_grid_line, .css_grid_aereo_grid_line:hover {text-align: center;}
+.css_grid_aereo_volta_label, .css_grid_aereo_volta_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_grid_aereo_volta_grid_line, .css_grid_aereo_volta_grid_line:hover {text-align: center;}
+.css_grid_bloqueio_label, .css_grid_bloqueio_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_grid_bloqueio_grid_line, .css_grid_bloqueio_grid_line:hover {text-align: center;}
+.css_grid_bloqueio_volta_label, .css_grid_bloqueio_volta_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_grid_bloqueio_volta_grid_line, .css_grid_bloqueio_volta_grid_line:hover {text-align: center;}
+.css_cancelado_label, .css_cancelado_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_cancelado_grid_line, .css_cancelado_grid_line:hover {text-align: center;}
+.css_cancelado_volta_label, .css_cancelado_volta_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_cancelado_volta_grid_line, .css_cancelado_volta_grid_line:hover {text-align: center;}
+.css_tra_dt_alteracao_label, .css_tra_dt_alteracao_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_tra_dt_alteracao_grid_line, .css_tra_dt_alteracao_grid_line:hover {vertical-align: top;text-align: center;}
+.css_tra_id_aereo_label, .css_tra_id_aereo_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tra_id_aereo_grid_line, .css_tra_id_aereo_grid_line:hover {vertical-align: top;text-align: right;}
+.css_tra_id_bloqueio_label, .css_tra_id_bloqueio_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tra_id_bloqueio_grid_line, .css_tra_id_bloqueio_grid_line:hover {vertical-align: top;text-align: right;}

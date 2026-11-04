@@ -1,0 +1,12 @@
+.css_cia_id_label, .css_cia_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cia_id_grid_line, .css_cia_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cia_sigla_label, .css_cia_sigla_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cia_sigla_grid_line, .css_cia_sigla_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cia_nome_label, .css_cia_nome_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cia_nome_grid_line, .css_cia_nome_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cia_logo_label, .css_cia_logo_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_cia_logo_grid_line, .css_cia_logo_grid_line:hover {vertical-align: top;text-align: center;}
+.css_cia_pais_label, .css_cia_pais_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cia_pais_grid_line, .css_cia_pais_grid_line:hover {vertical-align: top;text-align: right;}
+.css_cia_observacoes_label, .css_cia_observacoes_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cia_observacoes_grid_line, .css_cia_observacoes_grid_line:hover {vertical-align: top;text-align: right;}

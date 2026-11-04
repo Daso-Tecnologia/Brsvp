@@ -1,0 +1,30 @@
+.css_part_cpf_label, .css_part_cpf_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_cpf_grid_line, .css_part_cpf_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_id_evento_label, .css_part_id_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_part_id_evento_grid_line, .css_part_id_evento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_id_evento_publico_label, .css_part_id_evento_publico_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_part_id_evento_publico_grid_line, .css_part_id_evento_publico_grid_line:hover {vertical-align: top;text-align: right;}
+.css_dsc_publico_label, .css_dsc_publico_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_dsc_publico_grid_line, .css_dsc_publico_grid_line:hover {text-align: center;}
+.css_part_celeular_01_label, .css_part_celeular_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_celeular_01_grid_line, .css_part_celeular_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_email_label, .css_part_email_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_email_grid_line, .css_part_email_grid_line:hover {vertical-align: top;text-align: left;}
+.css_codigo_telefone_internacional_label, .css_codigo_telefone_internacional_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codigo_telefone_internacional_grid_line, .css_codigo_telefone_internacional_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_ddd_celular_01_label, .css_part_ddd_celular_01_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_ddd_celular_01_grid_line, .css_part_ddd_celular_01_grid_line:hover {vertical-align: top;text-align: left;}
+.css_dsc_empresa_rsvp_label, .css_dsc_empresa_rsvp_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_dsc_empresa_rsvp_grid_line, .css_dsc_empresa_rsvp_grid_line:hover {vertical-align: top;text-align: left;}
+.css_roles_app_label, .css_roles_app_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_roles_app_grid_line, .css_roles_app_grid_line:hover {vertical-align: top;text-align: left;}
+.css_external_status_label, .css_external_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_external_status_grid_line, .css_external_status_grid_line:hover {vertical-align: top;text-align: left;}
+.css_retorno_api_label, .css_retorno_api_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_retorno_api_grid_line, .css_retorno_api_grid_line:hover {vertical-align: top;text-align: left;}
+.css_participante_id_label, .css_participante_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_participante_id_grid_line, .css_participante_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_part_ativo_label, .css_part_ativo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_ativo_grid_line, .css_part_ativo_grid_line:hover {vertical-align: top;text-align: left;}
+.css_part_sexo_label, .css_part_sexo_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_part_sexo_grid_line, .css_part_sexo_grid_line:hover {vertical-align: top;text-align: left;}

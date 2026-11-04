@@ -1,0 +1,30 @@
+.css_opc_id_label, .css_opc_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_opc_id_grid_line, .css_opc_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_opc_tipo_dsc_label, .css_opc_tipo_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_opc_tipo_dsc_grid_line, .css_opc_tipo_dsc_grid_line:hover {vertical-align: top;text-align: left;}
+.css_opc_cpf_participante_label, .css_opc_cpf_participante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_opc_cpf_participante_grid_line, .css_opc_cpf_participante_grid_line:hover {vertical-align: top;text-align: left;}
+.css_participante_nome_label, .css_participante_nome_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_participante_nome_grid_line, .css_participante_nome_grid_line:hover {text-align: center;}
+.css_tipo_pessoa_dsc_label, .css_tipo_pessoa_dsc_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_tipo_pessoa_dsc_grid_line, .css_tipo_pessoa_dsc_grid_line:hover {text-align: left;}
+.css_opc_modificado_em_label, .css_opc_modificado_em_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_opc_modificado_em_grid_line, .css_opc_modificado_em_grid_line:hover {vertical-align: top;text-align: center;}
+.css_opc_participante_id_label, .css_opc_participante_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_opc_participante_id_grid_line, .css_opc_participante_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_ativo_label, .css_ativo_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_ativo_grid_line, .css_ativo_grid_line:hover {text-align: center;}
+.css_inativo_label, .css_inativo_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_inativo_grid_line, .css_inativo_grid_line:hover {text-align: center;}
+.css_opc_tipo_id_label, .css_opc_tipo_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_opc_tipo_id_grid_line, .css_opc_tipo_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_opc_usuario_id_label, .css_opc_usuario_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_opc_usuario_id_grid_line, .css_opc_usuario_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_opc_evento_id_label, .css_opc_evento_id_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_opc_evento_id_grid_line, .css_opc_evento_id_grid_line:hover {vertical-align: top;text-align: right;}
+.css_opc_tipo_pessoa_label, .css_opc_tipo_pessoa_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_opc_tipo_pessoa_grid_line, .css_opc_tipo_pessoa_grid_line:hover {vertical-align: top;text-align: left;}
+.css_opc_status_label, .css_opc_status_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_opc_status_grid_line, .css_opc_status_grid_line:hover {vertical-align: top;text-align: left;}
+.css_opc_cnpjfor_label, .css_opc_cnpjfor_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_opc_cnpjfor_grid_line, .css_opc_cnpjfor_grid_line:hover {vertical-align: top;text-align: left;}

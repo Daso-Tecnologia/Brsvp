@@ -1,0 +1,132 @@
+.css_fornec_id_label, .css_fornec_id_label a, .css_fornec_id_label span{ }
+.css_fornec_id_label span  span{line-height:1.5;}
+.css_fornec_id_line, .css_fornec_id_line a, .css_fornec_id_line >span{text-align:left;}
+.css_fornec_id_line span  span{line-height:1.5;}
+.css_fornec_id_obj, .css_fornec_id_obj a, .css_fornec_id_obj span{text-align:left;}
+.css_fornec_id_obj span  span{line-height:1.5;}
+.css_fornec_cnpj_label, .css_fornec_cnpj_label a, .css_fornec_cnpj_label span{ }
+.css_fornec_cnpj_label span  span{line-height:1.5;}
+.css_fornec_cnpj_line, .css_fornec_cnpj_line a, .css_fornec_cnpj_line >span{ }
+.css_fornec_cnpj_line span  span{line-height:1.5;}
+.css_fornec_cnpj_obj, .css_fornec_cnpj_obj a, .css_fornec_cnpj_obj span{ }
+.css_fornec_cnpj_obj span  span{line-height:1.5;}
+.css_fornec_razsoc_label, .css_fornec_razsoc_label a, .css_fornec_razsoc_label span{ }
+.css_fornec_razsoc_label span  span{line-height:1.5;}
+.css_fornec_razsoc_line, .css_fornec_razsoc_line a, .css_fornec_razsoc_line >span{ }
+.css_fornec_razsoc_line span  span{line-height:1.5;}
+.css_fornec_razsoc_obj, .css_fornec_razsoc_obj a, .css_fornec_razsoc_obj span{ }
+.css_fornec_razsoc_obj span  span{line-height:1.5;}
+.css_fornec_fantasia_label, .css_fornec_fantasia_label a, .css_fornec_fantasia_label span{ }
+.css_fornec_fantasia_label span  span{line-height:1.5;}
+.css_fornec_fantasia_line, .css_fornec_fantasia_line a, .css_fornec_fantasia_line >span{ }
+.css_fornec_fantasia_line span  span{line-height:1.5;}
+.css_fornec_fantasia_obj, .css_fornec_fantasia_obj a, .css_fornec_fantasia_obj span{ }
+.css_fornec_fantasia_obj span  span{line-height:1.5;}
+.css_fornec_tipo_label, .css_fornec_tipo_label a, .css_fornec_tipo_label span{ }
+.css_fornec_tipo_label span  span{line-height:1.5;}
+.css_fornec_tipo_line, .css_fornec_tipo_line a, .css_fornec_tipo_line >span{ }
+.css_fornec_tipo_line span  span{line-height:1.5;}
+.css_fornec_tipo_obj, .css_fornec_tipo_obj a, .css_fornec_tipo_obj span{ }
+.css_fornec_tipo_obj span  span{line-height:1.5;}
+.css_fornec_tipo_estrangeiro_label, .css_fornec_tipo_estrangeiro_label a, .css_fornec_tipo_estrangeiro_label span{ }
+.css_fornec_tipo_estrangeiro_label span  span{line-height:1.5;}
+.css_fornec_tipo_estrangeiro_line, .css_fornec_tipo_estrangeiro_line a, .css_fornec_tipo_estrangeiro_line >span{ }
+.css_fornec_tipo_estrangeiro_line span  span{line-height:1.5;}
+.css_fornec_tipo_estrangeiro_obj, .css_fornec_tipo_estrangeiro_obj a, .css_fornec_tipo_estrangeiro_obj span{ }
+.css_fornec_tipo_estrangeiro_obj span  span{line-height:1.5;}
+.css_fornec_cep_label, .css_fornec_cep_label a, .css_fornec_cep_label span{ }
+.css_fornec_cep_label span  span{line-height:1.5;}
+.css_fornec_cep_line, .css_fornec_cep_line a, .css_fornec_cep_line >span{ }
+.css_fornec_cep_line span  span{line-height:1.5;}
+.css_fornec_cep_obj, .css_fornec_cep_obj a, .css_fornec_cep_obj span{ }
+.css_fornec_cep_obj span  span{line-height:1.5;}
+.css_fornec_pais_label, .css_fornec_pais_label a, .css_fornec_pais_label span{ }
+.css_fornec_pais_label span  span{line-height:1.5;}
+.css_fornec_pais_line, .css_fornec_pais_line a, .css_fornec_pais_line >span{ }
+.css_fornec_pais_line span  span{line-height:1.5;}
+.css_fornec_pais_obj, .css_fornec_pais_obj a, .css_fornec_pais_obj span{ }
+.css_fornec_pais_obj span  span{line-height:1.5;}
+.css_fornec_uf_label, .css_fornec_uf_label a, .css_fornec_uf_label span{ }
+.css_fornec_uf_label span  span{line-height:1.5;}
+.css_fornec_uf_line, .css_fornec_uf_line a, .css_fornec_uf_line >span{ }
+.css_fornec_uf_line span  span{line-height:1.5;}
+.css_fornec_uf_obj, .css_fornec_uf_obj a, .css_fornec_uf_obj span{ }
+.css_fornec_uf_obj span  span{line-height:1.5;}
+.css_fornec_municipio_label, .css_fornec_municipio_label a, .css_fornec_municipio_label span{ }
+.css_fornec_municipio_label span  span{line-height:1.5;}
+.css_fornec_municipio_line, .css_fornec_municipio_line a, .css_fornec_municipio_line >span{ }
+.css_fornec_municipio_line span  span{line-height:1.5;}
+.css_fornec_municipio_obj, .css_fornec_municipio_obj a, .css_fornec_municipio_obj span{ }
+.css_fornec_municipio_obj span  span{line-height:1.5;}
+.css_fornec_bairro_label, .css_fornec_bairro_label a, .css_fornec_bairro_label span{ }
+.css_fornec_bairro_label span  span{line-height:1.5;}
+.css_fornec_bairro_line, .css_fornec_bairro_line a, .css_fornec_bairro_line >span{ }
+.css_fornec_bairro_line span  span{line-height:1.5;}
+.css_fornec_bairro_obj, .css_fornec_bairro_obj a, .css_fornec_bairro_obj span{ }
+.css_fornec_bairro_obj span  span{line-height:1.5;}
+.css_fornec_logradouro_label, .css_fornec_logradouro_label a, .css_fornec_logradouro_label span{ }
+.css_fornec_logradouro_label span  span{line-height:1.5;}
+.css_fornec_logradouro_line, .css_fornec_logradouro_line a, .css_fornec_logradouro_line >span{ }
+.css_fornec_logradouro_line span  span{line-height:1.5;}
+.css_fornec_logradouro_obj, .css_fornec_logradouro_obj a, .css_fornec_logradouro_obj span{ }
+.css_fornec_logradouro_obj span  span{line-height:1.5;}
+.css_fornec_tipo_logradouro_label, .css_fornec_tipo_logradouro_label a, .css_fornec_tipo_logradouro_label span{ }
+.css_fornec_tipo_logradouro_label span  span{line-height:1.5;}
+.css_fornec_tipo_logradouro_line, .css_fornec_tipo_logradouro_line a, .css_fornec_tipo_logradouro_line >span{ }
+.css_fornec_tipo_logradouro_line span  span{line-height:1.5;}
+.css_fornec_tipo_logradouro_obj, .css_fornec_tipo_logradouro_obj a, .css_fornec_tipo_logradouro_obj span{ }
+.css_fornec_tipo_logradouro_obj span  span{line-height:1.5;}
+.css_fornec_numero_label, .css_fornec_numero_label a, .css_fornec_numero_label span{ }
+.css_fornec_numero_label span  span{line-height:1.5;}
+.css_fornec_numero_line, .css_fornec_numero_line a, .css_fornec_numero_line >span{ }
+.css_fornec_numero_line span  span{line-height:1.5;}
+.css_fornec_numero_obj, .css_fornec_numero_obj a, .css_fornec_numero_obj span{ }
+.css_fornec_numero_obj span  span{line-height:1.5;}
+.css_fornec_complemento_label, .css_fornec_complemento_label a, .css_fornec_complemento_label span{ }
+.css_fornec_complemento_label span  span{line-height:1.5;}
+.css_fornec_complemento_line, .css_fornec_complemento_line a, .css_fornec_complemento_line >span{ }
+.css_fornec_complemento_line span  span{line-height:1.5;}
+.css_fornec_complemento_obj, .css_fornec_complemento_obj a, .css_fornec_complemento_obj span{ }
+.css_fornec_complemento_obj span  span{line-height:1.5;}
+.css_fornec_email_label, .css_fornec_email_label a, .css_fornec_email_label span{ }
+.css_fornec_email_label span  span{line-height:1.5;}
+.css_fornec_email_line, .css_fornec_email_line a, .css_fornec_email_line >span{ }
+.css_fornec_email_line span  span{line-height:1.5;}
+.css_fornec_email_obj, .css_fornec_email_obj a, .css_fornec_email_obj span{ }
+.css_fornec_email_obj span  span{line-height:1.5;}
+.css_fornec_website_label, .css_fornec_website_label a, .css_fornec_website_label span{ }
+.css_fornec_website_label span  span{line-height:1.5;}
+.css_fornec_website_line, .css_fornec_website_line a, .css_fornec_website_line >span{ }
+.css_fornec_website_line span  span{line-height:1.5;}
+.css_fornec_website_obj, .css_fornec_website_obj a, .css_fornec_website_obj span{ }
+.css_fornec_website_obj span  span{line-height:1.5;}
+.css_fornec_tel_label, .css_fornec_tel_label a, .css_fornec_tel_label span{ }
+.css_fornec_tel_label span  span{line-height:1.5;}
+.css_fornec_tel_line, .css_fornec_tel_line a, .css_fornec_tel_line >span{ }
+.css_fornec_tel_line span  span{line-height:1.5;}
+.css_fornec_tel_obj, .css_fornec_tel_obj a, .css_fornec_tel_obj span{ }
+.css_fornec_tel_obj span  span{line-height:1.5;}
+.css_fornec_celular_label, .css_fornec_celular_label a, .css_fornec_celular_label span{ }
+.css_fornec_celular_label span  span{line-height:1.5;}
+.css_fornec_celular_line, .css_fornec_celular_line a, .css_fornec_celular_line >span{ }
+.css_fornec_celular_line span  span{line-height:1.5;}
+.css_fornec_celular_obj, .css_fornec_celular_obj a, .css_fornec_celular_obj span{ }
+.css_fornec_celular_obj span  span{line-height:1.5;}
+.css_fornec_contato_label, .css_fornec_contato_label a, .css_fornec_contato_label span{ }
+.css_fornec_contato_label span  span{line-height:1.5;}
+.css_fornec_contato_line, .css_fornec_contato_line a, .css_fornec_contato_line >span{ }
+.css_fornec_contato_line span  span{line-height:1.5;}
+.css_fornec_contato_obj, .css_fornec_contato_obj a, .css_fornec_contato_obj span{ }
+.css_fornec_contato_obj span  span{line-height:1.5;}
+.css_fornec_codfor_estrangeiro_label, .css_fornec_codfor_estrangeiro_label a, .css_fornec_codfor_estrangeiro_label span{ }
+.css_fornec_codfor_estrangeiro_label span  span{line-height:1.5;}
+.css_fornec_codfor_estrangeiro_line, .css_fornec_codfor_estrangeiro_line a, .css_fornec_codfor_estrangeiro_line >span{ }
+.css_fornec_codfor_estrangeiro_line span  span{line-height:1.5;}
+.css_fornec_codfor_estrangeiro_obj, .css_fornec_codfor_estrangeiro_obj a, .css_fornec_codfor_estrangeiro_obj span{ }
+.css_fornec_codfor_estrangeiro_obj span  span{line-height:1.5;}
+.css_fornec_ativo_label, .css_fornec_ativo_label a, .css_fornec_ativo_label span{ }
+.css_fornec_ativo_label span  span{line-height:1.5;}
+.css_fornec_ativo_line, .css_fornec_ativo_line a, .css_fornec_ativo_line >span{ }
+.css_fornec_ativo_line span  span{line-height:1.5;}
+.css_fornec_ativo_obj, .css_fornec_ativo_obj a, .css_fornec_ativo_obj span{ }
+.css_fornec_ativo_obj span  span{line-height:1.5;}

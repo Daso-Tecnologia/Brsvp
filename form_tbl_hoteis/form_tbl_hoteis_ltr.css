@@ -1,0 +1,258 @@
+.css_hotel_id_label, .css_hotel_id_label a, .css_hotel_id_label span{ }
+.css_hotel_id_label span  span{line-height:1.5;}
+.css_hotel_id_line, .css_hotel_id_line a, .css_hotel_id_line >span{text-align:left;}
+.css_hotel_id_line span  span{line-height:1.5;}
+.css_hotel_id_obj, .css_hotel_id_obj a, .css_hotel_id_obj span{text-align:left;}
+.css_hotel_id_obj span  span{line-height:1.5;}
+.css_hotel_cnpj_label, .css_hotel_cnpj_label a, .css_hotel_cnpj_label span{background-color:#FFFFFF !important;}
+.css_hotel_cnpj_label span  span{line-height:1.5;}
+.css_hotel_cnpj_line, .css_hotel_cnpj_line a, .css_hotel_cnpj_line >span{ }
+.css_hotel_cnpj_line span  span{line-height:1.5;}
+.css_hotel_cnpj_obj, .css_hotel_cnpj_obj a, .css_hotel_cnpj_obj span{ }
+.css_hotel_cnpj_obj span  span{line-height:1.5;}
+.css_hotel_fantasia_label, .css_hotel_fantasia_label a, .css_hotel_fantasia_label span{ }
+.css_hotel_fantasia_label span  span{line-height:1.5;}
+.css_hotel_fantasia_line, .css_hotel_fantasia_line a, .css_hotel_fantasia_line >span{ }
+.css_hotel_fantasia_line span  span{line-height:1.5;}
+.css_hotel_fantasia_obj, .css_hotel_fantasia_obj a, .css_hotel_fantasia_obj span{ }
+.css_hotel_fantasia_obj span  span{line-height:1.5;}
+.css_hotel_razsoc_label, .css_hotel_razsoc_label a, .css_hotel_razsoc_label span{ }
+.css_hotel_razsoc_label span  span{line-height:1.5;}
+.css_hotel_razsoc_line, .css_hotel_razsoc_line a, .css_hotel_razsoc_line >span{ }
+.css_hotel_razsoc_line span  span{line-height:1.5;}
+.css_hotel_razsoc_obj, .css_hotel_razsoc_obj a, .css_hotel_razsoc_obj span{ }
+.css_hotel_razsoc_obj span  span{line-height:1.5;}
+.css_hotel_descricao_label, .css_hotel_descricao_label a, .css_hotel_descricao_label span{ }
+.css_hotel_descricao_label span  span{line-height:1.5;}
+.css_hotel_descricao_line, .css_hotel_descricao_line a, .css_hotel_descricao_line >span{color:#FF0000 !important;}
+.css_hotel_descricao_line span  span{line-height:1.5;}
+.css_hotel_descricao_obj, .css_hotel_descricao_obj a, .css_hotel_descricao_obj span{ }
+.css_hotel_descricao_obj span  span{line-height:1.5;}
+.css_hotel_rede_label, .css_hotel_rede_label a, .css_hotel_rede_label span{ }
+.css_hotel_rede_label span  span{line-height:1.5;}
+.css_hotel_rede_line, .css_hotel_rede_line a, .css_hotel_rede_line >span{ }
+.css_hotel_rede_line span  span{line-height:1.5;}
+.css_hotel_rede_obj, .css_hotel_rede_obj a, .css_hotel_rede_obj span{ }
+.css_hotel_rede_obj span  span{line-height:1.5;}
+.css_hotel_cep_label, .css_hotel_cep_label a, .css_hotel_cep_label span{ }
+.css_hotel_cep_label span  span{line-height:1.5;}
+.css_hotel_cep_line, .css_hotel_cep_line a, .css_hotel_cep_line >span{ }
+.css_hotel_cep_line span  span{line-height:1.5;}
+.css_hotel_cep_obj, .css_hotel_cep_obj a, .css_hotel_cep_obj span{ }
+.css_hotel_cep_obj span  span{line-height:1.5;}
+.css_hotel_pais_label, .css_hotel_pais_label a, .css_hotel_pais_label span{ }
+.css_hotel_pais_label span  span{line-height:1.5;}
+.css_hotel_pais_line, .css_hotel_pais_line a, .css_hotel_pais_line >span{text-align:left;}
+.css_hotel_pais_line span  span{line-height:1.5;}
+.css_hotel_pais_obj, .css_hotel_pais_obj a, .css_hotel_pais_obj span{text-align:left;}
+.css_hotel_pais_obj span  span{line-height:1.5;}
+.css_hotel_uf_label, .css_hotel_uf_label a, .css_hotel_uf_label span{ }
+.css_hotel_uf_label span  span{line-height:1.5;}
+.css_hotel_uf_line, .css_hotel_uf_line a, .css_hotel_uf_line >span{text-align:left;}
+.css_hotel_uf_line span  span{line-height:1.5;}
+.css_hotel_uf_obj, .css_hotel_uf_obj a, .css_hotel_uf_obj span{text-align:left;}
+.css_hotel_uf_obj span  span{line-height:1.5;}
+.css_hotel_municipio_label, .css_hotel_municipio_label a, .css_hotel_municipio_label span{ }
+.css_hotel_municipio_label span  span{line-height:1.5;}
+.css_hotel_municipio_line, .css_hotel_municipio_line a, .css_hotel_municipio_line >span{text-align:left;}
+.css_hotel_municipio_line span  span{line-height:1.5;}
+.css_hotel_municipio_obj, .css_hotel_municipio_obj a, .css_hotel_municipio_obj span{text-align:left;}
+.css_hotel_municipio_obj span  span{line-height:1.5;}
+.css_hotel_bairro_label, .css_hotel_bairro_label a, .css_hotel_bairro_label span{ }
+.css_hotel_bairro_label span  span{line-height:1.5;}
+.css_hotel_bairro_line, .css_hotel_bairro_line a, .css_hotel_bairro_line >span{ }
+.css_hotel_bairro_line span  span{line-height:1.5;}
+.css_hotel_bairro_obj, .css_hotel_bairro_obj a, .css_hotel_bairro_obj span{ }
+.css_hotel_bairro_obj span  span{line-height:1.5;}
+.css_hotel_logradouro_label, .css_hotel_logradouro_label a, .css_hotel_logradouro_label span{ }
+.css_hotel_logradouro_label span  span{line-height:1.5;}
+.css_hotel_logradouro_line, .css_hotel_logradouro_line a, .css_hotel_logradouro_line >span{ }
+.css_hotel_logradouro_line span  span{line-height:1.5;}
+.css_hotel_logradouro_obj, .css_hotel_logradouro_obj a, .css_hotel_logradouro_obj span{ }
+.css_hotel_logradouro_obj span  span{line-height:1.5;}
+.css_hotel_numero_label, .css_hotel_numero_label a, .css_hotel_numero_label span{ }
+.css_hotel_numero_label span  span{line-height:1.5;}
+.css_hotel_numero_line, .css_hotel_numero_line a, .css_hotel_numero_line >span{ }
+.css_hotel_numero_line span  span{line-height:1.5;}
+.css_hotel_numero_obj, .css_hotel_numero_obj a, .css_hotel_numero_obj span{ }
+.css_hotel_numero_obj span  span{line-height:1.5;}
+.css_hotel_complemento_label, .css_hotel_complemento_label a, .css_hotel_complemento_label span{ }
+.css_hotel_complemento_label span  span{line-height:1.5;}
+.css_hotel_complemento_line, .css_hotel_complemento_line a, .css_hotel_complemento_line >span{ }
+.css_hotel_complemento_line span  span{line-height:1.5;}
+.css_hotel_complemento_obj, .css_hotel_complemento_obj a, .css_hotel_complemento_obj span{ }
+.css_hotel_complemento_obj span  span{line-height:1.5;}
+.css_hotel_email_label, .css_hotel_email_label a, .css_hotel_email_label span{ }
+.css_hotel_email_label span  span{line-height:1.5;}
+.css_hotel_email_line, .css_hotel_email_line a, .css_hotel_email_line >span{ }
+.css_hotel_email_line span  span{line-height:1.5;}
+.css_hotel_email_obj, .css_hotel_email_obj a, .css_hotel_email_obj span{ }
+.css_hotel_email_obj span  span{line-height:1.5;}
+.css_hotel_telefone_label, .css_hotel_telefone_label a, .css_hotel_telefone_label span{ }
+.css_hotel_telefone_label span  span{line-height:1.5;}
+.css_hotel_telefone_line, .css_hotel_telefone_line a, .css_hotel_telefone_line >span{ }
+.css_hotel_telefone_line span  span{line-height:1.5;}
+.css_hotel_telefone_obj, .css_hotel_telefone_obj a, .css_hotel_telefone_obj span{ }
+.css_hotel_telefone_obj span  span{line-height:1.5;}
+.css_hotel_fax_label, .css_hotel_fax_label a, .css_hotel_fax_label span{ }
+.css_hotel_fax_label span  span{line-height:1.5;}
+.css_hotel_fax_line, .css_hotel_fax_line a, .css_hotel_fax_line >span{ }
+.css_hotel_fax_line span  span{line-height:1.5;}
+.css_hotel_fax_obj, .css_hotel_fax_obj a, .css_hotel_fax_obj span{ }
+.css_hotel_fax_obj span  span{line-height:1.5;}
+.css_hotel_celular_label, .css_hotel_celular_label a, .css_hotel_celular_label span{ }
+.css_hotel_celular_label span  span{line-height:1.5;}
+.css_hotel_celular_line, .css_hotel_celular_line a, .css_hotel_celular_line >span{ }
+.css_hotel_celular_line span  span{line-height:1.5;}
+.css_hotel_celular_obj, .css_hotel_celular_obj a, .css_hotel_celular_obj span{ }
+.css_hotel_celular_obj span  span{line-height:1.5;}
+.css_hotel_website_label, .css_hotel_website_label a, .css_hotel_website_label span{ }
+.css_hotel_website_label span  span{line-height:1.5;}
+.css_hotel_website_line, .css_hotel_website_line a, .css_hotel_website_line >span{ }
+.css_hotel_website_line span  span{line-height:1.5;}
+.css_hotel_website_obj, .css_hotel_website_obj a, .css_hotel_website_obj span{ }
+.css_hotel_website_obj span  span{line-height:1.5;}
+.css_hotel_status_label, .css_hotel_status_label a, .css_hotel_status_label span{ }
+.css_hotel_status_label span  span{line-height:1.5;}
+.css_hotel_status_line, .css_hotel_status_line a, .css_hotel_status_line >span{ }
+.css_hotel_status_line span  span{line-height:1.5;}
+.css_hotel_status_obj, .css_hotel_status_obj a, .css_hotel_status_obj span{ }
+.css_hotel_status_obj span  span{line-height:1.5;}
+.css_hotel_facebook_label, .css_hotel_facebook_label a, .css_hotel_facebook_label span{ }
+.css_hotel_facebook_label span  span{line-height:1.5;}
+.css_hotel_facebook_line, .css_hotel_facebook_line a, .css_hotel_facebook_line >span{ }
+.css_hotel_facebook_line span  span{line-height:1.5;}
+.css_hotel_facebook_obj, .css_hotel_facebook_obj a, .css_hotel_facebook_obj span{ }
+.css_hotel_facebook_obj span  span{line-height:1.5;}
+.css_hotel_twitter_label, .css_hotel_twitter_label a, .css_hotel_twitter_label span{ }
+.css_hotel_twitter_label span  span{line-height:1.5;}
+.css_hotel_twitter_line, .css_hotel_twitter_line a, .css_hotel_twitter_line >span{ }
+.css_hotel_twitter_line span  span{line-height:1.5;}
+.css_hotel_twitter_obj, .css_hotel_twitter_obj a, .css_hotel_twitter_obj span{ }
+.css_hotel_twitter_obj span  span{line-height:1.5;}
+.css_hotel_skype_label, .css_hotel_skype_label a, .css_hotel_skype_label span{ }
+.css_hotel_skype_label span  span{line-height:1.5;}
+.css_hotel_skype_line, .css_hotel_skype_line a, .css_hotel_skype_line >span{ }
+.css_hotel_skype_line span  span{line-height:1.5;}
+.css_hotel_skype_obj, .css_hotel_skype_obj a, .css_hotel_skype_obj span{ }
+.css_hotel_skype_obj span  span{line-height:1.5;}
+.css_hotel_ar_condicionado_label, .css_hotel_ar_condicionado_label a, .css_hotel_ar_condicionado_label span{ }
+.css_hotel_ar_condicionado_label span  span{line-height:1.5;}
+.css_hotel_ar_condicionado_line, .css_hotel_ar_condicionado_line a, .css_hotel_ar_condicionado_line >span{ }
+.css_hotel_ar_condicionado_line span  span{line-height:1.5;}
+.css_hotel_ar_condicionado_obj, .css_hotel_ar_condicionado_obj a, .css_hotel_ar_condicionado_obj span{ }
+.css_hotel_ar_condicionado_obj span  span{line-height:1.5;}
+.css_hotel_frigobar_label, .css_hotel_frigobar_label a, .css_hotel_frigobar_label span{ }
+.css_hotel_frigobar_label span  span{line-height:1.5;}
+.css_hotel_frigobar_line, .css_hotel_frigobar_line a, .css_hotel_frigobar_line >span{ }
+.css_hotel_frigobar_line span  span{line-height:1.5;}
+.css_hotel_frigobar_obj, .css_hotel_frigobar_obj a, .css_hotel_frigobar_obj span{ }
+.css_hotel_frigobar_obj span  span{line-height:1.5;}
+.css_hotel_lavanderia_label, .css_hotel_lavanderia_label a, .css_hotel_lavanderia_label span{ }
+.css_hotel_lavanderia_label span  span{line-height:1.5;}
+.css_hotel_lavanderia_line, .css_hotel_lavanderia_line a, .css_hotel_lavanderia_line >span{ }
+.css_hotel_lavanderia_line span  span{line-height:1.5;}
+.css_hotel_lavanderia_obj, .css_hotel_lavanderia_obj a, .css_hotel_lavanderia_obj span{ }
+.css_hotel_lavanderia_obj span  span{line-height:1.5;}
+.css_hotel_telefone_quarto_label, .css_hotel_telefone_quarto_label a, .css_hotel_telefone_quarto_label span{ }
+.css_hotel_telefone_quarto_label span  span{line-height:1.5;}
+.css_hotel_telefone_quarto_line, .css_hotel_telefone_quarto_line a, .css_hotel_telefone_quarto_line >span{ }
+.css_hotel_telefone_quarto_line span  span{line-height:1.5;}
+.css_hotel_telefone_quarto_obj, .css_hotel_telefone_quarto_obj a, .css_hotel_telefone_quarto_obj span{ }
+.css_hotel_telefone_quarto_obj span  span{line-height:1.5;}
+.css_hotel_tv_label, .css_hotel_tv_label a, .css_hotel_tv_label span{ }
+.css_hotel_tv_label span  span{line-height:1.5;}
+.css_hotel_tv_line, .css_hotel_tv_line a, .css_hotel_tv_line >span{ }
+.css_hotel_tv_line span  span{line-height:1.5;}
+.css_hotel_tv_obj, .css_hotel_tv_obj a, .css_hotel_tv_obj span{ }
+.css_hotel_tv_obj span  span{line-height:1.5;}
+.css_hotel_ginastica_label, .css_hotel_ginastica_label a, .css_hotel_ginastica_label span{ }
+.css_hotel_ginastica_label span  span{line-height:1.5;}
+.css_hotel_ginastica_line, .css_hotel_ginastica_line a, .css_hotel_ginastica_line >span{ }
+.css_hotel_ginastica_line span  span{line-height:1.5;}
+.css_hotel_ginastica_obj, .css_hotel_ginastica_obj a, .css_hotel_ginastica_obj span{ }
+.css_hotel_ginastica_obj span  span{line-height:1.5;}
+.css_hotel_restaurante_label, .css_hotel_restaurante_label a, .css_hotel_restaurante_label span{ }
+.css_hotel_restaurante_label span  span{line-height:1.5;}
+.css_hotel_restaurante_line, .css_hotel_restaurante_line a, .css_hotel_restaurante_line >span{ }
+.css_hotel_restaurante_line span  span{line-height:1.5;}
+.css_hotel_restaurante_obj, .css_hotel_restaurante_obj a, .css_hotel_restaurante_obj span{ }
+.css_hotel_restaurante_obj span  span{line-height:1.5;}
+.css_hotel_bar_label, .css_hotel_bar_label a, .css_hotel_bar_label span{ }
+.css_hotel_bar_label span  span{line-height:1.5;}
+.css_hotel_bar_line, .css_hotel_bar_line a, .css_hotel_bar_line >span{ }
+.css_hotel_bar_line span  span{line-height:1.5;}
+.css_hotel_bar_obj, .css_hotel_bar_obj a, .css_hotel_bar_obj span{ }
+.css_hotel_bar_obj span  span{line-height:1.5;}
+.css_hotel_estacionamento_label, .css_hotel_estacionamento_label a, .css_hotel_estacionamento_label span{ }
+.css_hotel_estacionamento_label span  span{line-height:1.5;}
+.css_hotel_estacionamento_line, .css_hotel_estacionamento_line a, .css_hotel_estacionamento_line >span{ }
+.css_hotel_estacionamento_line span  span{line-height:1.5;}
+.css_hotel_estacionamento_obj, .css_hotel_estacionamento_obj a, .css_hotel_estacionamento_obj span{ }
+.css_hotel_estacionamento_obj span  span{line-height:1.5;}
+.css_hotel_sauna_label, .css_hotel_sauna_label a, .css_hotel_sauna_label span{ }
+.css_hotel_sauna_label span  span{line-height:1.5;}
+.css_hotel_sauna_line, .css_hotel_sauna_line a, .css_hotel_sauna_line >span{ }
+.css_hotel_sauna_line span  span{line-height:1.5;}
+.css_hotel_sauna_obj, .css_hotel_sauna_obj a, .css_hotel_sauna_obj span{ }
+.css_hotel_sauna_obj span  span{line-height:1.5;}
+.css_hotel_piscina_label, .css_hotel_piscina_label a, .css_hotel_piscina_label span{ }
+.css_hotel_piscina_label span  span{line-height:1.5;}
+.css_hotel_piscina_line, .css_hotel_piscina_line a, .css_hotel_piscina_line >span{ }
+.css_hotel_piscina_line span  span{line-height:1.5;}
+.css_hotel_piscina_obj, .css_hotel_piscina_obj a, .css_hotel_piscina_obj span{ }
+.css_hotel_piscina_obj span  span{line-height:1.5;}
+.css_hotel_wifi_label, .css_hotel_wifi_label a, .css_hotel_wifi_label span{ }
+.css_hotel_wifi_label span  span{line-height:1.5;}
+.css_hotel_wifi_line, .css_hotel_wifi_line a, .css_hotel_wifi_line >span{ }
+.css_hotel_wifi_line span  span{line-height:1.5;}
+.css_hotel_wifi_obj, .css_hotel_wifi_obj a, .css_hotel_wifi_obj span{ }
+.css_hotel_wifi_obj span  span{line-height:1.5;}
+.css_hotel_computador_label, .css_hotel_computador_label a, .css_hotel_computador_label span{ }
+.css_hotel_computador_label span  span{line-height:1.5;}
+.css_hotel_computador_line, .css_hotel_computador_line a, .css_hotel_computador_line >span{ }
+.css_hotel_computador_line span  span{line-height:1.5;}
+.css_hotel_computador_obj, .css_hotel_computador_obj a, .css_hotel_computador_obj span{ }
+.css_hotel_computador_obj span  span{line-height:1.5;}
+.css_hotel_convencoes_label, .css_hotel_convencoes_label a, .css_hotel_convencoes_label span{ }
+.css_hotel_convencoes_label span  span{line-height:1.5;}
+.css_hotel_convencoes_line, .css_hotel_convencoes_line a, .css_hotel_convencoes_line >span{ }
+.css_hotel_convencoes_line span  span{line-height:1.5;}
+.css_hotel_convencoes_obj, .css_hotel_convencoes_obj a, .css_hotel_convencoes_obj span{ }
+.css_hotel_convencoes_obj span  span{line-height:1.5;}
+.css_hotel_observacoes_label, .css_hotel_observacoes_label a, .css_hotel_observacoes_label span{ }
+.css_hotel_observacoes_label span  span{line-height:1.5;}
+.css_hotel_observacoes_line, .css_hotel_observacoes_line a, .css_hotel_observacoes_line >span{ }
+.css_hotel_observacoes_line span  span{line-height:1.5;}
+.css_hotel_observacoes_obj, .css_hotel_observacoes_obj a, .css_hotel_observacoes_obj span{ }
+.css_hotel_observacoes_obj span  span{line-height:1.5;}
+.css_hotel_classificacao_label, .css_hotel_classificacao_label a, .css_hotel_classificacao_label span{ }
+.css_hotel_classificacao_label span  span{line-height:1.5;}
+.css_hotel_classificacao_line, .css_hotel_classificacao_line a, .css_hotel_classificacao_line >span{ }
+.css_hotel_classificacao_line span  span{line-height:1.5;}
+.css_hotel_classificacao_obj, .css_hotel_classificacao_obj a, .css_hotel_classificacao_obj span{ }
+.css_hotel_classificacao_obj span  span{line-height:1.5;}
+.css_hotel_categoria_label, .css_hotel_categoria_label a, .css_hotel_categoria_label span{ }
+.css_hotel_categoria_label span  span{line-height:1.5;}
+.css_hotel_categoria_line, .css_hotel_categoria_line a, .css_hotel_categoria_line >span{ }
+.css_hotel_categoria_line span  span{line-height:1.5;}
+.css_hotel_categoria_obj, .css_hotel_categoria_obj a, .css_hotel_categoria_obj span{ }
+.css_hotel_categoria_obj span  span{line-height:1.5;}
+.css_hotel_logo_label, .css_hotel_logo_label a, .css_hotel_logo_label span{ }
+.css_hotel_logo_label span  span{line-height:1.5;}
+.css_hotel_logo_line, .css_hotel_logo_line a, .css_hotel_logo_line >span{ }
+.css_hotel_logo_line span  span{line-height:1.5;}
+.css_hotel_logo_obj, .css_hotel_logo_obj a, .css_hotel_logo_obj span{ }
+.css_hotel_logo_obj span  span{line-height:1.5;}
+.css_hotel_cod_estrangeiro_label, .css_hotel_cod_estrangeiro_label a, .css_hotel_cod_estrangeiro_label span{ }
+.css_hotel_cod_estrangeiro_label span  span{line-height:1.5;}
+.css_hotel_cod_estrangeiro_line, .css_hotel_cod_estrangeiro_line a, .css_hotel_cod_estrangeiro_line >span{ }
+.css_hotel_cod_estrangeiro_line span  span{line-height:1.5;}
+.css_hotel_cod_estrangeiro_obj, .css_hotel_cod_estrangeiro_obj a, .css_hotel_cod_estrangeiro_obj span{ }
+.css_hotel_cod_estrangeiro_obj span  span{line-height:1.5;}
+.css_localizacao_label, .css_localizacao_label a, .css_localizacao_label span{ }
+.css_localizacao_label span  span{line-height:1.5;}
+.css_localizacao_line, .css_localizacao_line a, .css_localizacao_line >span{font-size:11px;color:#C0C0C0;}
+.css_localizacao_line span  span{line-height:1.5;}
+.css_localizacao_obj, .css_localizacao_obj a, .css_localizacao_obj span{ }
+.css_localizacao_obj span  span{line-height:1.5;}

@@ -1,0 +1,16 @@
+.css_id_evento_label, .css_id_evento_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_evento_grid_line, .css_id_evento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_nome_evento_label, .css_nome_evento_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nome_evento_grid_line, .css_nome_evento_grid_line:hover {vertical-align: top;text-align: right;}
+.css_participante_label, .css_participante_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_participante_grid_line, .css_participante_grid_line:hover {vertical-align: top;text-align: right;}
+.css_convidado_original_label, .css_convidado_original_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_convidado_original_grid_line, .css_convidado_original_grid_line:hover {vertical-align: top;text-align: right;}
+.css_publico_dsc_label, .css_publico_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_publico_dsc_grid_line, .css_publico_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_regional_dsc_label, .css_regional_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_regional_dsc_grid_line, .css_regional_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_empresa_dsc_label, .css_empresa_dsc_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_empresa_dsc_grid_line, .css_empresa_dsc_grid_line:hover {vertical-align: top;text-align: right;}
+.css_substituicoes_label, .css_substituicoes_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_substituicoes_grid_line, .css_substituicoes_grid_line:hover {vertical-align: top;text-align: right;}
